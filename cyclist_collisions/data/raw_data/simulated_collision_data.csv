@@ -1,0 +1,1001 @@
+DATE,TIME,ACCLASS,VISIBILITY,LIGHT,RDSFCOND,INJURY,INVTYPE,INITDIR,NEIGHBOURHOOD_158,DIVISION
+2020-12-05,20:51,Collision,Rain,Daylight,Dry,Minor,Driver,NE,Neighbourhood 15,Division 5
+2022-08-19,15:14,Near Miss,Snow,Dark,Ice,None,Cyclist,SE,Neighbourhood 14,Division 2
+2021-05-15,19:09,Near Miss,Clear,Daylight,Ice,Minor,Driver,E,Neighbourhood 10,Division 5
+2022-09-29,03:25,Collision,Rain,Dawn,Slush,None,Pedestrian,SW,Neighbourhood 10,Division 4
+2018-01-08,11:27,Near Miss,Clear,Daylight,Slush,Minor,Cyclist,SE,Neighbourhood 5,Division 3
+2014-10-31,01:05,Collision,Rain,Dusk,Ice,None,Pedestrian,NE,Neighbourhood 12,Division 3
+2016-07-29,23:10,Collision,Rain,Daylight,Dry,Fatal,Passenger,NE,Neighbourhood 19,Division 4
+2018-08-08,11:58,Near Miss,Other,Daylight,Wet,None,Driver,NE,Neighbourhood 9,Division 3
+2021-01-01,18:59,Collision,Fog,Dark,Dry,None,Cyclist,NE,Neighbourhood 10,Division 3
+2023-11-19,17:47,Collision,Clear,Dark,Ice,Minor,Cyclist,N,Neighbourhood 6,Division 4
+2013-05-19,05:26,Near Miss,Fog,Daylight,Dry,Major,Driver,N,Neighbourhood 3,Division 4
+2014-09-04,16:23,Near Miss,Rain,Daylight,Slush,Minor,Cyclist,W,Neighbourhood 12,Division 4
+2021-02-02,09:05,Near Miss,Snow,Dusk,Ice,Minor,Driver,W,Neighbourhood 6,Division 4
+2013-01-05,03:15,Collision,Rain,Dusk,Wet,Fatal,Passenger,NE,Neighbourhood 17,Division 3
+2017-04-21,14:25,Near Miss,Clear,Dark,Wet,None,Driver,N,Neighbourhood 17,Division 4
+2018-02-01,08:00,Near Miss,Rain,Dark,Dry,Minor,Passenger,E,Neighbourhood 14,Division 5
+2017-04-08,19:22,Collision,Rain,Daylight,Dry,None,Pedestrian,SE,Neighbourhood 1,Division 5
+2017-06-05,12:42,Collision,Clear,Dusk,Wet,Minor,Passenger,NW,Neighbourhood 8,Division 5
+2014-12-20,04:46,Near Miss,Snow,Daylight,Wet,None,Pedestrian,S,Neighbourhood 17,Division 1
+2023-06-19,13:10,Collision,Snow,Daylight,Wet,Minor,Cyclist,NW,Neighbourhood 7,Division 2
+2017-12-28,19:32,Near Miss,Snow,Dusk,Snow,None,Cyclist,NE,Neighbourhood 8,Division 5
+2016-08-05,22:42,Near Miss,Snow,Dawn,Wet,None,Driver,E,Neighbourhood 19,Division 5
+2023-08-14,21:36,Near Miss,Clear,Dusk,Dry,Minor,Driver,N,Neighbourhood 7,Division 2
+2020-10-12,01:44,Collision,Rain,Daylight,Ice,Minor,Pedestrian,W,Neighbourhood 9,Division 3
+2020-02-02,14:13,Collision,Fog,Dusk,Slush,None,Driver,NW,Neighbourhood 17,Division 1
+2017-04-15,15:27,Near Miss,Clear,Dark,Dry,None,Passenger,N,Neighbourhood 10,Division 3
+2020-09-06,06:33,Collision,Fog,Dawn,Wet,Minor,Cyclist,E,Neighbourhood 3,Division 5
+2018-12-25,13:29,Collision,Clear,Dark,Slush,Major,Driver,N,Neighbourhood 9,Division 4
+2015-06-29,10:45,Collision,Fog,Daylight,Wet,Minor,Cyclist,S,Neighbourhood 15,Division 4
+2018-04-30,07:24,Near Miss,Other,Daylight,Ice,Minor,Pedestrian,SE,Neighbourhood 4,Division 4
+2021-09-20,13:41,Near Miss,Rain,Dawn,Wet,Fatal,Pedestrian,E,Neighbourhood 1,Division 5
+2013-01-25,11:37,Collision,Clear,Daylight,Snow,None,Passenger,SW,Neighbourhood 11,Division 5
+2015-01-24,14:22,Near Miss,Snow,Daylight,Dry,None,Passenger,SE,Neighbourhood 19,Division 3
+2020-07-01,00:08,Collision,Other,Dusk,Wet,None,Pedestrian,S,Neighbourhood 16,Division 3
+2017-01-26,21:30,Collision,Other,Dark,Ice,None,Pedestrian,N,Neighbourhood 11,Division 4
+2016-12-23,00:14,Near Miss,Other,Dawn,Slush,None,Cyclist,W,Neighbourhood 12,Division 3
+2022-07-22,05:29,Collision,Other,Dawn,Ice,Minor,Cyclist,SW,Neighbourhood 15,Division 5
+2022-12-11,20:03,Near Miss,Clear,Dusk,Snow,None,Driver,S,Neighbourhood 17,Division 3
+2019-10-16,02:18,Near Miss,Fog,Dusk,Snow,Minor,Cyclist,NE,Neighbourhood 3,Division 5
+2014-06-23,12:26,Collision,Other,Dark,Dry,None,Passenger,NW,Neighbourhood 9,Division 4
+2021-08-08,10:50,Near Miss,Clear,Dusk,Dry,Minor,Cyclist,NE,Neighbourhood 11,Division 3
+2017-09-20,00:39,Near Miss,Other,Dusk,Dry,None,Passenger,S,Neighbourhood 4,Division 4
+2023-03-13,12:07,Near Miss,Rain,Dawn,Dry,Major,Cyclist,SE,Neighbourhood 18,Division 4
+2021-07-03,15:14,Collision,Snow,Dusk,Ice,None,Passenger,NE,Neighbourhood 5,Division 2
+2015-11-09,13:23,Collision,Clear,Dusk,Wet,Minor,Cyclist,W,Neighbourhood 11,Division 5
+2016-07-14,14:02,Near Miss,Clear,Daylight,Ice,Minor,Cyclist,S,Neighbourhood 16,Division 4
+2013-08-30,03:08,Near Miss,Other,Dark,Ice,None,Driver,S,Neighbourhood 8,Division 5
+2013-06-24,02:32,Collision,Other,Dawn,Slush,Minor,Cyclist,NE,Neighbourhood 5,Division 5
+2013-08-10,07:23,Collision,Snow,Dusk,Wet,Minor,Passenger,SW,Neighbourhood 1,Division 4
+2019-11-18,07:07,Near Miss,Clear,Dawn,Wet,Major,Pedestrian,E,Neighbourhood 3,Division 3
+2023-08-10,09:07,Near Miss,Clear,Dawn,Wet,None,Pedestrian,NE,Neighbourhood 20,Division 3
+2022-02-05,18:20,Near Miss,Snow,Dawn,Dry,None,Passenger,W,Neighbourhood 13,Division 3
+2016-06-19,13:49,Collision,Snow,Dark,Dry,Minor,Driver,S,Neighbourhood 2,Division 3
+2015-05-06,10:22,Collision,Snow,Daylight,Slush,Minor,Passenger,E,Neighbourhood 18,Division 3
+2021-01-20,03:03,Collision,Snow,Dawn,Dry,None,Driver,NW,Neighbourhood 7,Division 2
+2018-06-28,21:07,Near Miss,Rain,Dark,Slush,Minor,Driver,NE,Neighbourhood 3,Division 2
+2021-01-09,03:33,Collision,Clear,Dawn,Ice,None,Pedestrian,W,Neighbourhood 5,Division 3
+2013-11-19,07:06,Collision,Fog,Dawn,Dry,Minor,Pedestrian,E,Neighbourhood 12,Division 1
+2017-10-16,19:55,Collision,Snow,Dark,Snow,None,Pedestrian,SE,Neighbourhood 8,Division 3
+2015-08-09,05:59,Collision,Clear,Dark,Dry,Minor,Passenger,NW,Neighbourhood 3,Division 5
+2021-09-14,05:15,Collision,Clear,Dark,Wet,Minor,Cyclist,W,Neighbourhood 13,Division 4
+2015-11-05,18:30,Near Miss,Snow,Dark,Dry,None,Driver,W,Neighbourhood 20,Division 3
+2023-11-04,14:09,Collision,Other,Dusk,Wet,None,Driver,NW,Neighbourhood 4,Division 2
+2021-04-28,03:55,Collision,Other,Dawn,Slush,Minor,Driver,N,Neighbourhood 7,Division 2
+2023-10-10,01:41,Collision,Other,Dusk,Snow,None,Passenger,NE,Neighbourhood 14,Division 4
+2015-05-30,20:20,Collision,Fog,Daylight,Slush,None,Cyclist,NE,Neighbourhood 3,Division 5
+2023-06-08,03:38,Collision,Rain,Dusk,Dry,Major,Passenger,SW,Neighbourhood 12,Division 4
+2014-08-24,10:32,Near Miss,Snow,Daylight,Snow,None,Passenger,NW,Neighbourhood 18,Division 1
+2019-08-09,18:35,Near Miss,Other,Dark,Slush,None,Passenger,S,Neighbourhood 1,Division 5
+2023-05-29,18:30,Collision,Fog,Dawn,Wet,None,Passenger,S,Neighbourhood 3,Division 5
+2020-07-27,12:46,Near Miss,Fog,Dusk,Slush,None,Driver,NW,Neighbourhood 9,Division 5
+2018-07-24,19:45,Collision,Snow,Dusk,Wet,None,Driver,SW,Neighbourhood 20,Division 5
+2017-02-06,04:03,Collision,Rain,Dawn,Slush,None,Passenger,E,Neighbourhood 17,Division 4
+2016-09-10,05:18,Near Miss,Fog,Dusk,Wet,None,Cyclist,N,Neighbourhood 16,Division 2
+2013-07-13,16:10,Collision,Fog,Dark,Dry,Minor,Pedestrian,NW,Neighbourhood 13,Division 1
+2019-10-22,10:47,Collision,Fog,Dawn,Dry,None,Pedestrian,SE,Neighbourhood 11,Division 2
+2023-07-29,12:02,Near Miss,Other,Dawn,Wet,None,Cyclist,E,Neighbourhood 6,Division 2
+2020-03-15,05:35,Collision,Other,Dark,Slush,Minor,Passenger,S,Neighbourhood 11,Division 5
+2018-08-12,06:29,Near Miss,Fog,Dark,Ice,None,Pedestrian,W,Neighbourhood 10,Division 4
+2014-08-26,20:37,Collision,Other,Dawn,Dry,Minor,Driver,NE,Neighbourhood 3,Division 3
+2022-07-28,18:35,Near Miss,Clear,Daylight,Snow,None,Cyclist,SW,Neighbourhood 14,Division 1
+2018-08-28,13:20,Near Miss,Rain,Daylight,Dry,Minor,Cyclist,NE,Neighbourhood 16,Division 3
+2013-02-04,05:12,Near Miss,Clear,Dawn,Snow,None,Cyclist,SW,Neighbourhood 6,Division 1
+2013-03-19,23:22,Near Miss,Fog,Dark,Dry,None,Passenger,N,Neighbourhood 4,Division 5
+2014-08-04,07:56,Collision,Rain,Dusk,Wet,None,Cyclist,E,Neighbourhood 13,Division 4
+2016-05-10,21:44,Near Miss,Fog,Daylight,Ice,None,Driver,NW,Neighbourhood 10,Division 1
+2022-01-29,18:19,Near Miss,Other,Dusk,Wet,Major,Passenger,SE,Neighbourhood 6,Division 4
+2018-07-11,21:06,Collision,Clear,Dark,Slush,None,Passenger,NE,Neighbourhood 11,Division 5
+2021-11-02,17:44,Near Miss,Fog,Daylight,Wet,Minor,Passenger,N,Neighbourhood 4,Division 1
+2013-09-01,19:17,Near Miss,Rain,Dawn,Dry,None,Cyclist,N,Neighbourhood 13,Division 4
+2023-03-16,18:33,Collision,Clear,Dark,Wet,None,Passenger,E,Neighbourhood 19,Division 4
+2021-11-20,15:01,Near Miss,Snow,Dark,Slush,Minor,Cyclist,NW,Neighbourhood 17,Division 2
+2013-11-13,00:51,Near Miss,Clear,Dusk,Slush,None,Cyclist,NE,Neighbourhood 16,Division 1
+2019-08-11,08:49,Collision,Rain,Dawn,Snow,Minor,Pedestrian,SW,Neighbourhood 5,Division 4
+2020-11-10,19:15,Near Miss,Other,Dawn,Snow,Minor,Pedestrian,SW,Neighbourhood 19,Division 3
+2018-08-26,10:18,Near Miss,Fog,Dark,Ice,Minor,Cyclist,NW,Neighbourhood 13,Division 2
+2020-12-01,20:10,Near Miss,Other,Dawn,Snow,Minor,Cyclist,E,Neighbourhood 8,Division 4
+2021-03-31,04:29,Collision,Other,Dawn,Wet,None,Pedestrian,W,Neighbourhood 13,Division 4
+2014-01-20,12:10,Near Miss,Fog,Daylight,Slush,None,Passenger,S,Neighbourhood 9,Division 5
+2017-05-17,19:00,Collision,Snow,Dusk,Dry,None,Cyclist,W,Neighbourhood 13,Division 3
+2016-03-28,02:38,Near Miss,Rain,Dawn,Ice,None,Pedestrian,S,Neighbourhood 6,Division 4
+2019-10-15,14:20,Collision,Rain,Dark,Dry,None,Passenger,NW,Neighbourhood 20,Division 1
+2023-09-18,06:40,Near Miss,Rain,Dawn,Ice,None,Pedestrian,E,Neighbourhood 5,Division 1
+2019-10-19,05:21,Near Miss,Rain,Dark,Slush,None,Driver,NW,Neighbourhood 5,Division 1
+2018-09-25,10:31,Collision,Clear,Dusk,Snow,None,Driver,SE,Neighbourhood 12,Division 4
+2022-12-04,12:37,Collision,Clear,Dark,Snow,None,Driver,W,Neighbourhood 13,Division 1
+2020-01-05,16:02,Collision,Fog,Dawn,Wet,None,Passenger,W,Neighbourhood 10,Division 1
+2022-07-04,13:38,Collision,Other,Dawn,Dry,None,Passenger,W,Neighbourhood 15,Division 3
+2015-10-06,17:03,Near Miss,Clear,Dusk,Ice,None,Pedestrian,SW,Neighbourhood 6,Division 1
+2015-05-14,02:34,Collision,Fog,Dusk,Ice,None,Driver,N,Neighbourhood 3,Division 5
+2019-09-14,18:35,Near Miss,Clear,Dawn,Ice,Minor,Cyclist,E,Neighbourhood 9,Division 2
+2017-03-20,08:54,Near Miss,Snow,Dusk,Snow,Major,Driver,NW,Neighbourhood 15,Division 3
+2021-04-22,22:19,Near Miss,Rain,Daylight,Slush,None,Pedestrian,N,Neighbourhood 15,Division 2
+2017-03-06,20:39,Collision,Other,Dawn,Slush,None,Pedestrian,SW,Neighbourhood 12,Division 5
+2021-09-28,16:18,Collision,Other,Daylight,Wet,None,Pedestrian,NE,Neighbourhood 15,Division 1
+2022-12-17,14:39,Near Miss,Fog,Dusk,Slush,Minor,Passenger,E,Neighbourhood 8,Division 2
+2023-10-27,13:01,Near Miss,Fog,Daylight,Dry,None,Cyclist,NW,Neighbourhood 10,Division 5
+2019-06-20,21:20,Near Miss,Clear,Dark,Wet,None,Driver,S,Neighbourhood 3,Division 3
+2013-02-08,00:36,Near Miss,Snow,Daylight,Slush,None,Driver,NE,Neighbourhood 16,Division 4
+2016-07-12,06:26,Collision,Clear,Dusk,Dry,Fatal,Pedestrian,NW,Neighbourhood 3,Division 4
+2019-02-25,08:04,Collision,Clear,Daylight,Ice,None,Driver,NW,Neighbourhood 1,Division 2
+2018-08-30,23:16,Near Miss,Clear,Dusk,Slush,Minor,Pedestrian,N,Neighbourhood 8,Division 5
+2013-12-27,07:37,Near Miss,Clear,Dark,Slush,None,Pedestrian,N,Neighbourhood 13,Division 4
+2020-07-06,10:28,Near Miss,Snow,Dusk,Dry,Major,Driver,NE,Neighbourhood 2,Division 4
+2020-10-22,01:20,Collision,Clear,Dark,Slush,Minor,Pedestrian,NW,Neighbourhood 12,Division 4
+2021-10-19,04:46,Collision,Other,Daylight,Snow,Minor,Driver,NW,Neighbourhood 15,Division 1
+2023-05-20,11:45,Collision,Snow,Dusk,Slush,Minor,Pedestrian,W,Neighbourhood 17,Division 1
+2015-01-20,23:39,Near Miss,Clear,Dawn,Snow,Minor,Driver,SE,Neighbourhood 14,Division 2
+2016-01-25,00:03,Collision,Other,Dark,Snow,None,Driver,NW,Neighbourhood 19,Division 4
+2021-07-07,16:08,Collision,Clear,Daylight,Slush,Minor,Driver,SE,Neighbourhood 3,Division 5
+2013-05-15,00:56,Collision,Fog,Dusk,Ice,None,Pedestrian,W,Neighbourhood 4,Division 1
+2020-05-22,12:40,Near Miss,Other,Daylight,Wet,None,Passenger,E,Neighbourhood 16,Division 4
+2021-12-09,06:38,Near Miss,Snow,Dark,Wet,None,Driver,NW,Neighbourhood 2,Division 1
+2020-04-17,01:58,Near Miss,Other,Dusk,Ice,None,Cyclist,NE,Neighbourhood 11,Division 1
+2023-05-22,04:17,Collision,Other,Dark,Snow,Minor,Driver,W,Neighbourhood 2,Division 1
+2022-08-15,03:54,Collision,Other,Dark,Slush,Minor,Passenger,NE,Neighbourhood 15,Division 2
+2020-09-01,22:39,Near Miss,Other,Dusk,Wet,Minor,Passenger,NW,Neighbourhood 12,Division 5
+2015-01-14,06:44,Collision,Fog,Dark,Ice,Minor,Cyclist,NW,Neighbourhood 18,Division 4
+2014-01-27,17:03,Near Miss,Rain,Dark,Dry,Minor,Cyclist,W,Neighbourhood 7,Division 1
+2021-11-18,14:57,Collision,Rain,Dawn,Slush,None,Cyclist,NE,Neighbourhood 4,Division 2
+2018-09-27,14:10,Near Miss,Rain,Dusk,Slush,Minor,Driver,SW,Neighbourhood 16,Division 4
+2020-08-17,20:53,Collision,Snow,Dark,Dry,None,Driver,SW,Neighbourhood 18,Division 3
+2015-05-19,03:53,Near Miss,Clear,Dark,Slush,None,Pedestrian,N,Neighbourhood 8,Division 4
+2019-12-05,07:35,Near Miss,Other,Daylight,Slush,None,Driver,NE,Neighbourhood 8,Division 1
+2014-08-14,11:53,Near Miss,Fog,Dawn,Wet,None,Passenger,N,Neighbourhood 9,Division 3
+2023-07-19,06:48,Near Miss,Rain,Dusk,Wet,None,Passenger,SE,Neighbourhood 16,Division 1
+2023-11-21,21:43,Near Miss,Clear,Dusk,Wet,None,Cyclist,N,Neighbourhood 6,Division 3
+2018-06-17,01:02,Collision,Rain,Dark,Dry,None,Driver,NE,Neighbourhood 6,Division 4
+2023-02-11,12:38,Near Miss,Rain,Daylight,Wet,None,Driver,N,Neighbourhood 8,Division 3
+2017-02-03,06:42,Collision,Other,Dark,Wet,None,Passenger,N,Neighbourhood 3,Division 3
+2022-02-04,12:13,Near Miss,Rain,Daylight,Wet,None,Driver,E,Neighbourhood 16,Division 2
+2019-02-24,07:53,Collision,Fog,Dark,Snow,None,Cyclist,NW,Neighbourhood 10,Division 2
+2021-10-01,16:24,Collision,Other,Dusk,Dry,Minor,Driver,W,Neighbourhood 5,Division 3
+2016-11-14,09:23,Near Miss,Snow,Daylight,Slush,Minor,Cyclist,SW,Neighbourhood 3,Division 4
+2015-04-18,11:23,Collision,Other,Dawn,Wet,None,Driver,SE,Neighbourhood 19,Division 1
+2021-08-18,05:40,Near Miss,Clear,Dusk,Dry,None,Driver,N,Neighbourhood 13,Division 1
+2020-07-06,20:27,Near Miss,Fog,Daylight,Slush,None,Passenger,N,Neighbourhood 14,Division 3
+2017-10-01,08:03,Collision,Rain,Dusk,Ice,None,Passenger,NW,Neighbourhood 1,Division 4
+2022-04-23,07:31,Collision,Snow,Dusk,Snow,None,Passenger,NE,Neighbourhood 19,Division 2
+2019-08-15,05:45,Collision,Snow,Dark,Ice,None,Cyclist,W,Neighbourhood 20,Division 2
+2021-02-22,13:02,Near Miss,Snow,Dawn,Dry,Fatal,Driver,N,Neighbourhood 12,Division 5
+2019-07-18,18:50,Near Miss,Snow,Dark,Dry,Minor,Cyclist,NW,Neighbourhood 5,Division 3
+2022-05-13,21:07,Near Miss,Clear,Dusk,Slush,Minor,Driver,NE,Neighbourhood 18,Division 3
+2021-12-13,20:29,Collision,Rain,Dark,Slush,None,Cyclist,N,Neighbourhood 11,Division 3
+2017-03-08,09:19,Near Miss,Clear,Dawn,Wet,None,Cyclist,NW,Neighbourhood 17,Division 5
+2018-06-01,23:15,Collision,Rain,Daylight,Ice,None,Cyclist,NE,Neighbourhood 4,Division 2
+2023-12-04,04:06,Near Miss,Clear,Dark,Ice,None,Passenger,SW,Neighbourhood 8,Division 5
+2014-12-01,01:30,Collision,Snow,Daylight,Ice,Minor,Pedestrian,NE,Neighbourhood 2,Division 4
+2022-03-05,13:25,Collision,Rain,Dark,Wet,None,Cyclist,NW,Neighbourhood 12,Division 2
+2017-05-09,15:49,Near Miss,Snow,Daylight,Snow,Major,Cyclist,S,Neighbourhood 12,Division 1
+2023-08-28,08:54,Collision,Fog,Dawn,Snow,None,Driver,E,Neighbourhood 9,Division 1
+2015-01-26,18:30,Collision,Clear,Dark,Wet,Minor,Cyclist,W,Neighbourhood 1,Division 2
+2021-03-28,20:22,Collision,Snow,Dawn,Dry,None,Driver,SW,Neighbourhood 18,Division 3
+2016-05-23,01:25,Near Miss,Other,Daylight,Wet,None,Pedestrian,SE,Neighbourhood 18,Division 1
+2017-03-03,07:13,Collision,Fog,Dusk,Dry,None,Pedestrian,E,Neighbourhood 5,Division 2
+2021-04-04,05:24,Near Miss,Clear,Daylight,Ice,None,Driver,SW,Neighbourhood 18,Division 5
+2020-09-29,13:55,Near Miss,Other,Dawn,Slush,None,Passenger,SW,Neighbourhood 8,Division 4
+2023-02-15,21:17,Near Miss,Fog,Daylight,Snow,None,Cyclist,SE,Neighbourhood 8,Division 1
+2021-09-29,19:07,Near Miss,Rain,Dusk,Ice,None,Pedestrian,SW,Neighbourhood 16,Division 4
+2022-02-12,15:47,Near Miss,Other,Dark,Snow,None,Cyclist,NE,Neighbourhood 12,Division 4
+2014-11-04,02:10,Collision,Rain,Dawn,Snow,None,Pedestrian,NE,Neighbourhood 20,Division 5
+2017-07-05,13:56,Near Miss,Other,Dark,Ice,Minor,Pedestrian,W,Neighbourhood 16,Division 4
+2015-02-28,21:16,Near Miss,Clear,Dark,Snow,None,Driver,NE,Neighbourhood 14,Division 3
+2015-11-08,18:46,Near Miss,Rain,Dusk,Slush,None,Pedestrian,SW,Neighbourhood 1,Division 2
+2023-09-03,13:55,Near Miss,Fog,Dark,Snow,Minor,Driver,S,Neighbourhood 20,Division 2
+2021-12-04,15:13,Near Miss,Snow,Dark,Slush,Minor,Driver,S,Neighbourhood 5,Division 5
+2016-10-27,13:17,Near Miss,Rain,Dusk,Dry,None,Driver,SE,Neighbourhood 8,Division 5
+2023-04-27,02:57,Near Miss,Fog,Dawn,Wet,None,Pedestrian,E,Neighbourhood 13,Division 5
+2014-10-19,15:22,Near Miss,Rain,Daylight,Ice,Minor,Cyclist,SE,Neighbourhood 9,Division 3
+2014-09-22,11:37,Collision,Other,Dark,Slush,Major,Pedestrian,W,Neighbourhood 10,Division 2
+2021-04-17,17:53,Collision,Clear,Daylight,Wet,Major,Cyclist,S,Neighbourhood 6,Division 5
+2022-09-29,15:37,Collision,Other,Dark,Dry,None,Passenger,S,Neighbourhood 10,Division 4
+2016-05-16,04:51,Collision,Other,Dusk,Wet,None,Cyclist,E,Neighbourhood 8,Division 4
+2016-06-03,16:17,Near Miss,Clear,Dawn,Ice,None,Driver,W,Neighbourhood 19,Division 3
+2023-10-29,05:07,Collision,Snow,Dark,Ice,None,Cyclist,S,Neighbourhood 5,Division 4
+2013-01-28,13:55,Near Miss,Other,Dark,Snow,Minor,Driver,SW,Neighbourhood 6,Division 5
+2016-01-07,15:26,Collision,Snow,Daylight,Dry,Minor,Cyclist,SE,Neighbourhood 17,Division 2
+2021-10-10,23:41,Collision,Other,Dark,Wet,None,Passenger,E,Neighbourhood 13,Division 3
+2015-09-06,02:54,Near Miss,Clear,Daylight,Dry,None,Driver,W,Neighbourhood 11,Division 2
+2018-01-15,01:01,Near Miss,Other,Dark,Slush,None,Pedestrian,N,Neighbourhood 7,Division 1
+2019-06-22,20:13,Near Miss,Snow,Dark,Snow,None,Cyclist,SW,Neighbourhood 20,Division 1
+2022-10-25,14:16,Near Miss,Snow,Dusk,Slush,None,Driver,S,Neighbourhood 10,Division 1
+2014-05-13,09:00,Collision,Clear,Daylight,Wet,None,Driver,N,Neighbourhood 14,Division 1
+2018-08-24,09:03,Collision,Other,Dark,Slush,None,Passenger,E,Neighbourhood 8,Division 2
+2020-04-19,02:42,Near Miss,Rain,Dusk,Slush,None,Pedestrian,S,Neighbourhood 6,Division 1
+2021-06-02,18:00,Collision,Other,Daylight,Slush,Fatal,Pedestrian,S,Neighbourhood 11,Division 4
+2014-01-07,01:05,Collision,Rain,Dark,Wet,None,Passenger,NW,Neighbourhood 2,Division 3
+2013-09-29,00:19,Near Miss,Fog,Dawn,Dry,None,Pedestrian,S,Neighbourhood 4,Division 4
+2019-02-12,05:43,Near Miss,Other,Dusk,Wet,None,Pedestrian,W,Neighbourhood 17,Division 4
+2020-02-29,12:41,Collision,Rain,Daylight,Dry,Minor,Passenger,N,Neighbourhood 3,Division 1
+2016-04-03,21:14,Near Miss,Clear,Dusk,Ice,None,Pedestrian,N,Neighbourhood 12,Division 2
+2020-08-25,01:30,Collision,Rain,Dawn,Slush,None,Driver,W,Neighbourhood 14,Division 2
+2017-02-25,07:44,Near Miss,Clear,Dusk,Slush,None,Driver,SE,Neighbourhood 5,Division 1
+2015-11-15,09:41,Collision,Snow,Dark,Wet,Minor,Pedestrian,SE,Neighbourhood 16,Division 3
+2023-05-04,03:24,Near Miss,Clear,Dark,Slush,None,Pedestrian,NW,Neighbourhood 3,Division 4
+2017-09-27,18:12,Collision,Rain,Daylight,Wet,None,Driver,SE,Neighbourhood 15,Division 5
+2016-08-06,14:52,Near Miss,Snow,Dawn,Dry,Minor,Passenger,N,Neighbourhood 1,Division 5
+2018-11-19,11:43,Near Miss,Clear,Daylight,Wet,Minor,Cyclist,NW,Neighbourhood 15,Division 1
+2019-11-19,07:12,Near Miss,Clear,Daylight,Dry,None,Driver,NW,Neighbourhood 3,Division 4
+2014-11-16,22:55,Collision,Rain,Dark,Wet,None,Passenger,E,Neighbourhood 5,Division 3
+2014-03-16,02:45,Collision,Rain,Dusk,Dry,Minor,Pedestrian,S,Neighbourhood 18,Division 3
+2014-03-07,22:41,Near Miss,Rain,Dawn,Snow,None,Cyclist,NW,Neighbourhood 15,Division 4
+2014-01-08,09:10,Collision,Rain,Daylight,Ice,Minor,Driver,NW,Neighbourhood 6,Division 2
+2018-11-17,12:04,Collision,Fog,Dusk,Snow,None,Passenger,NW,Neighbourhood 10,Division 5
+2022-11-09,20:57,Near Miss,Fog,Dawn,Slush,None,Cyclist,S,Neighbourhood 9,Division 1
+2020-10-22,09:21,Collision,Snow,Dusk,Snow,None,Passenger,W,Neighbourhood 2,Division 5
+2022-12-20,14:44,Collision,Fog,Dusk,Dry,None,Passenger,W,Neighbourhood 5,Division 2
+2017-10-20,01:00,Near Miss,Fog,Daylight,Slush,Minor,Pedestrian,SE,Neighbourhood 3,Division 5
+2018-02-22,07:38,Collision,Fog,Dawn,Wet,None,Pedestrian,NE,Neighbourhood 6,Division 5
+2019-07-31,20:12,Collision,Snow,Daylight,Dry,None,Pedestrian,W,Neighbourhood 6,Division 2
+2016-05-16,13:56,Near Miss,Rain,Daylight,Ice,None,Cyclist,W,Neighbourhood 14,Division 4
+2019-04-17,11:32,Collision,Rain,Dawn,Wet,Major,Cyclist,SE,Neighbourhood 1,Division 3
+2018-04-09,06:25,Collision,Other,Dusk,Ice,Minor,Passenger,W,Neighbourhood 14,Division 2
+2020-08-29,15:07,Collision,Clear,Daylight,Dry,None,Driver,S,Neighbourhood 2,Division 3
+2021-01-31,07:51,Collision,Rain,Dark,Ice,None,Cyclist,E,Neighbourhood 7,Division 5
+2018-09-06,09:16,Collision,Snow,Dawn,Snow,Minor,Cyclist,N,Neighbourhood 20,Division 3
+2023-11-02,10:44,Collision,Clear,Dusk,Snow,None,Passenger,NW,Neighbourhood 8,Division 2
+2023-02-04,00:47,Near Miss,Fog,Dawn,Snow,None,Pedestrian,S,Neighbourhood 6,Division 4
+2018-03-13,23:29,Near Miss,Rain,Dawn,Dry,None,Driver,NE,Neighbourhood 20,Division 2
+2017-03-09,04:16,Near Miss,Fog,Dusk,Slush,Minor,Cyclist,SW,Neighbourhood 7,Division 1
+2023-04-29,17:13,Near Miss,Other,Dark,Ice,Minor,Pedestrian,SE,Neighbourhood 10,Division 3
+2023-05-22,20:18,Near Miss,Rain,Daylight,Snow,Minor,Driver,SE,Neighbourhood 18,Division 3
+2022-12-21,08:57,Near Miss,Fog,Dawn,Ice,None,Passenger,N,Neighbourhood 9,Division 1
+2021-08-17,11:50,Collision,Rain,Dusk,Ice,None,Driver,S,Neighbourhood 17,Division 5
+2019-11-21,06:27,Near Miss,Rain,Dusk,Slush,Minor,Passenger,W,Neighbourhood 14,Division 4
+2020-06-06,14:30,Near Miss,Other,Dark,Ice,Major,Pedestrian,SE,Neighbourhood 9,Division 5
+2023-04-22,01:16,Collision,Fog,Dark,Wet,None,Cyclist,SW,Neighbourhood 11,Division 1
+2018-11-17,20:43,Collision,Rain,Daylight,Snow,None,Cyclist,E,Neighbourhood 13,Division 4
+2016-09-14,13:19,Near Miss,Clear,Daylight,Slush,None,Pedestrian,SE,Neighbourhood 5,Division 4
+2021-09-11,15:47,Collision,Rain,Daylight,Slush,Minor,Pedestrian,SE,Neighbourhood 19,Division 2
+2014-05-11,06:22,Collision,Clear,Daylight,Slush,None,Pedestrian,W,Neighbourhood 7,Division 3
+2023-07-19,18:24,Near Miss,Clear,Dark,Ice,Minor,Passenger,E,Neighbourhood 11,Division 1
+2013-05-11,08:15,Collision,Clear,Daylight,Snow,Major,Passenger,SE,Neighbourhood 11,Division 3
+2015-11-09,06:21,Near Miss,Clear,Dawn,Ice,Fatal,Cyclist,NW,Neighbourhood 14,Division 4
+2022-08-21,07:19,Near Miss,Rain,Dawn,Dry,Minor,Pedestrian,E,Neighbourhood 7,Division 4
+2022-04-20,02:18,Collision,Fog,Dawn,Slush,None,Driver,NW,Neighbourhood 11,Division 1
+2013-03-09,09:39,Collision,Clear,Dusk,Slush,None,Cyclist,S,Neighbourhood 15,Division 1
+2015-01-08,00:33,Near Miss,Snow,Dusk,Slush,None,Pedestrian,NE,Neighbourhood 1,Division 1
+2014-04-11,14:42,Near Miss,Other,Daylight,Wet,None,Cyclist,W,Neighbourhood 18,Division 1
+2018-04-06,15:43,Collision,Fog,Daylight,Slush,None,Driver,SW,Neighbourhood 3,Division 1
+2023-06-12,22:33,Near Miss,Clear,Dark,Snow,None,Passenger,NE,Neighbourhood 3,Division 1
+2022-01-30,08:13,Near Miss,Clear,Dusk,Dry,None,Pedestrian,E,Neighbourhood 13,Division 4
+2021-12-04,04:58,Near Miss,Snow,Dusk,Snow,None,Cyclist,W,Neighbourhood 17,Division 1
+2023-01-26,08:44,Collision,Fog,Dawn,Ice,Minor,Driver,SW,Neighbourhood 13,Division 5
+2020-09-12,18:05,Near Miss,Clear,Dawn,Snow,None,Pedestrian,NE,Neighbourhood 9,Division 2
+2013-11-30,09:48,Collision,Fog,Dawn,Dry,None,Pedestrian,W,Neighbourhood 17,Division 5
+2014-04-20,17:16,Near Miss,Rain,Daylight,Slush,None,Driver,E,Neighbourhood 3,Division 2
+2021-09-23,22:26,Collision,Snow,Dawn,Ice,None,Driver,NW,Neighbourhood 18,Division 5
+2023-12-15,03:35,Collision,Rain,Dark,Dry,None,Pedestrian,E,Neighbourhood 16,Division 5
+2020-08-07,02:01,Collision,Other,Dawn,Ice,None,Pedestrian,SE,Neighbourhood 13,Division 4
+2014-08-15,01:28,Collision,Snow,Daylight,Dry,None,Passenger,E,Neighbourhood 18,Division 1
+2016-06-30,13:24,Near Miss,Other,Dark,Wet,Minor,Passenger,NE,Neighbourhood 18,Division 3
+2014-09-19,11:33,Collision,Snow,Dawn,Dry,None,Cyclist,W,Neighbourhood 2,Division 3
+2023-12-11,05:54,Collision,Snow,Dark,Ice,Minor,Passenger,NE,Neighbourhood 15,Division 5
+2021-03-24,09:19,Collision,Other,Dark,Dry,None,Driver,SE,Neighbourhood 20,Division 3
+2017-04-28,10:18,Collision,Snow,Dawn,Ice,None,Cyclist,SW,Neighbourhood 4,Division 2
+2019-01-24,05:46,Collision,Rain,Dawn,Dry,Minor,Passenger,W,Neighbourhood 6,Division 4
+2013-04-29,11:48,Collision,Rain,Dawn,Dry,Minor,Passenger,NW,Neighbourhood 18,Division 5
+2016-09-12,21:32,Near Miss,Fog,Dusk,Slush,None,Cyclist,W,Neighbourhood 14,Division 3
+2022-06-10,02:41,Collision,Other,Dusk,Slush,None,Passenger,NW,Neighbourhood 8,Division 3
+2014-05-26,17:46,Collision,Clear,Dawn,Slush,None,Passenger,SE,Neighbourhood 2,Division 2
+2021-09-14,12:32,Near Miss,Snow,Dark,Slush,None,Passenger,NW,Neighbourhood 2,Division 1
+2014-01-29,15:02,Collision,Rain,Dark,Ice,None,Passenger,E,Neighbourhood 8,Division 2
+2013-03-18,23:46,Near Miss,Other,Dusk,Dry,None,Pedestrian,NE,Neighbourhood 12,Division 1
+2016-01-14,15:39,Collision,Fog,Dusk,Snow,Major,Driver,N,Neighbourhood 12,Division 1
+2017-07-10,07:10,Collision,Clear,Dawn,Slush,None,Passenger,SW,Neighbourhood 3,Division 2
+2013-09-25,03:37,Near Miss,Rain,Dark,Ice,None,Driver,S,Neighbourhood 17,Division 1
+2021-10-04,18:01,Near Miss,Snow,Dark,Dry,Minor,Passenger,NE,Neighbourhood 2,Division 2
+2018-07-27,22:43,Near Miss,Snow,Dusk,Slush,None,Passenger,SE,Neighbourhood 3,Division 4
+2018-09-14,19:44,Collision,Snow,Dusk,Snow,Minor,Cyclist,SE,Neighbourhood 9,Division 2
+2020-10-04,16:49,Collision,Fog,Daylight,Wet,Minor,Cyclist,SW,Neighbourhood 13,Division 2
+2022-02-22,12:43,Collision,Rain,Dark,Snow,None,Pedestrian,E,Neighbourhood 18,Division 5
+2013-09-02,05:30,Collision,Clear,Dark,Wet,Minor,Driver,S,Neighbourhood 17,Division 4
+2016-09-14,23:32,Collision,Rain,Dusk,Snow,None,Driver,E,Neighbourhood 7,Division 3
+2021-10-27,14:45,Near Miss,Clear,Dawn,Wet,None,Driver,NW,Neighbourhood 15,Division 5
+2016-02-13,10:53,Near Miss,Snow,Daylight,Slush,Major,Pedestrian,SW,Neighbourhood 7,Division 2
+2021-12-17,14:30,Collision,Clear,Dark,Wet,None,Cyclist,NE,Neighbourhood 3,Division 1
+2015-05-14,02:53,Near Miss,Snow,Daylight,Slush,Minor,Driver,SW,Neighbourhood 16,Division 1
+2019-02-08,08:23,Near Miss,Clear,Dark,Ice,Minor,Pedestrian,SE,Neighbourhood 10,Division 1
+2013-03-04,23:37,Near Miss,Fog,Dark,Wet,Minor,Passenger,S,Neighbourhood 8,Division 1
+2013-07-31,23:57,Collision,Snow,Dark,Wet,None,Cyclist,W,Neighbourhood 2,Division 2
+2019-08-02,02:59,Collision,Clear,Dusk,Wet,None,Pedestrian,N,Neighbourhood 6,Division 2
+2020-10-15,21:35,Near Miss,Rain,Daylight,Snow,None,Pedestrian,E,Neighbourhood 18,Division 1
+2020-03-09,04:43,Collision,Clear,Daylight,Ice,None,Cyclist,S,Neighbourhood 17,Division 3
+2019-05-08,18:45,Collision,Fog,Dusk,Wet,Minor,Pedestrian,NW,Neighbourhood 10,Division 3
+2020-06-16,07:36,Collision,Clear,Dusk,Wet,Minor,Cyclist,SW,Neighbourhood 10,Division 1
+2015-04-24,07:29,Collision,Rain,Dawn,Snow,Minor,Cyclist,SW,Neighbourhood 5,Division 5
+2015-08-10,00:47,Collision,Other,Dark,Snow,None,Passenger,N,Neighbourhood 15,Division 1
+2018-01-09,09:44,Near Miss,Fog,Dusk,Slush,Minor,Driver,S,Neighbourhood 20,Division 5
+2016-09-28,22:27,Collision,Snow,Dawn,Ice,None,Cyclist,W,Neighbourhood 16,Division 4
+2017-05-30,19:50,Near Miss,Fog,Dark,Wet,Minor,Driver,SW,Neighbourhood 7,Division 4
+2017-09-30,14:24,Near Miss,Clear,Dawn,Wet,None,Pedestrian,N,Neighbourhood 13,Division 2
+2023-07-04,22:01,Collision,Snow,Dawn,Snow,Major,Driver,S,Neighbourhood 5,Division 1
+2015-06-12,14:27,Near Miss,Snow,Dark,Slush,Minor,Cyclist,E,Neighbourhood 18,Division 1
+2017-01-07,16:35,Near Miss,Fog,Daylight,Wet,None,Driver,NW,Neighbourhood 5,Division 1
+2022-09-15,05:53,Near Miss,Snow,Dawn,Slush,None,Pedestrian,SE,Neighbourhood 12,Division 1
+2018-10-18,21:05,Collision,Snow,Dusk,Dry,Minor,Pedestrian,NW,Neighbourhood 10,Division 3
+2019-06-11,12:09,Near Miss,Rain,Daylight,Ice,Minor,Cyclist,SE,Neighbourhood 14,Division 3
+2015-11-01,18:17,Collision,Rain,Dark,Ice,None,Pedestrian,NW,Neighbourhood 6,Division 5
+2022-07-22,17:54,Near Miss,Snow,Daylight,Ice,None,Cyclist,E,Neighbourhood 20,Division 3
+2016-06-10,21:03,Near Miss,Other,Dark,Ice,None,Pedestrian,SW,Neighbourhood 17,Division 4
+2020-05-26,08:55,Near Miss,Fog,Dawn,Slush,None,Pedestrian,E,Neighbourhood 8,Division 5
+2019-10-23,11:57,Near Miss,Snow,Dusk,Snow,Minor,Pedestrian,E,Neighbourhood 12,Division 2
+2017-06-09,21:07,Collision,Rain,Dark,Slush,None,Driver,N,Neighbourhood 2,Division 3
+2017-06-13,21:35,Collision,Other,Dawn,Slush,Minor,Pedestrian,S,Neighbourhood 17,Division 1
+2023-08-01,21:36,Collision,Fog,Dark,Ice,None,Driver,W,Neighbourhood 2,Division 3
+2016-06-19,18:16,Collision,Rain,Daylight,Slush,Minor,Pedestrian,N,Neighbourhood 9,Division 1
+2013-03-05,08:46,Near Miss,Clear,Daylight,Ice,Major,Pedestrian,SW,Neighbourhood 10,Division 3
+2014-10-08,20:46,Collision,Other,Dusk,Dry,Minor,Pedestrian,E,Neighbourhood 5,Division 2
+2015-07-10,22:30,Near Miss,Snow,Dawn,Snow,Major,Pedestrian,SE,Neighbourhood 9,Division 4
+2017-04-14,05:32,Near Miss,Other,Daylight,Slush,Minor,Cyclist,SE,Neighbourhood 14,Division 3
+2022-05-03,07:01,Near Miss,Other,Dusk,Snow,Fatal,Driver,SE,Neighbourhood 19,Division 1
+2021-02-06,23:07,Collision,Clear,Dark,Snow,None,Cyclist,S,Neighbourhood 6,Division 1
+2020-06-03,04:16,Collision,Fog,Dark,Dry,None,Cyclist,SW,Neighbourhood 15,Division 1
+2014-03-08,09:56,Near Miss,Other,Daylight,Ice,None,Passenger,N,Neighbourhood 3,Division 3
+2013-08-27,22:52,Near Miss,Rain,Dark,Snow,None,Driver,NE,Neighbourhood 9,Division 3
+2023-07-28,09:35,Collision,Fog,Dawn,Slush,None,Cyclist,SE,Neighbourhood 16,Division 5
+2021-01-09,14:31,Near Miss,Clear,Dark,Ice,None,Cyclist,SE,Neighbourhood 11,Division 4
+2018-05-25,04:01,Near Miss,Fog,Dawn,Snow,None,Cyclist,NE,Neighbourhood 12,Division 4
+2022-09-08,06:33,Collision,Other,Dusk,Ice,None,Passenger,S,Neighbourhood 20,Division 3
+2019-05-16,03:24,Collision,Other,Dawn,Snow,None,Driver,S,Neighbourhood 4,Division 4
+2020-08-20,06:57,Collision,Rain,Dark,Wet,Minor,Pedestrian,S,Neighbourhood 4,Division 2
+2023-01-07,20:50,Collision,Clear,Dark,Ice,None,Passenger,NE,Neighbourhood 20,Division 3
+2022-03-19,18:23,Collision,Other,Dusk,Slush,None,Driver,E,Neighbourhood 7,Division 2
+2018-08-28,14:58,Near Miss,Rain,Dark,Ice,None,Cyclist,W,Neighbourhood 2,Division 3
+2019-11-22,17:34,Near Miss,Snow,Dark,Dry,None,Driver,N,Neighbourhood 15,Division 1
+2021-09-29,12:31,Near Miss,Fog,Dusk,Ice,None,Passenger,S,Neighbourhood 17,Division 3
+2023-05-19,19:42,Near Miss,Other,Dark,Slush,None,Driver,S,Neighbourhood 6,Division 4
+2013-06-27,03:32,Near Miss,Fog,Dusk,Ice,None,Cyclist,E,Neighbourhood 2,Division 2
+2021-04-14,23:34,Collision,Rain,Dark,Slush,Minor,Cyclist,NE,Neighbourhood 8,Division 2
+2020-07-12,19:50,Collision,Snow,Dark,Ice,Minor,Cyclist,E,Neighbourhood 2,Division 3
+2019-11-05,16:23,Collision,Fog,Daylight,Snow,Minor,Cyclist,NE,Neighbourhood 6,Division 2
+2023-12-04,16:53,Near Miss,Fog,Daylight,Wet,None,Cyclist,SW,Neighbourhood 17,Division 5
+2019-12-28,11:25,Near Miss,Other,Dark,Slush,None,Cyclist,SE,Neighbourhood 17,Division 4
+2020-03-19,11:07,Near Miss,Rain,Dark,Dry,None,Cyclist,SE,Neighbourhood 13,Division 4
+2020-12-31,00:50,Near Miss,Snow,Daylight,Wet,None,Passenger,S,Neighbourhood 16,Division 3
+2019-06-09,08:34,Collision,Snow,Dark,Slush,None,Passenger,W,Neighbourhood 20,Division 5
+2019-04-30,17:39,Collision,Clear,Dusk,Snow,None,Pedestrian,SE,Neighbourhood 13,Division 1
+2013-05-20,07:17,Collision,Snow,Dawn,Snow,None,Passenger,SE,Neighbourhood 2,Division 3
+2021-08-27,16:07,Collision,Other,Dusk,Slush,None,Driver,SW,Neighbourhood 13,Division 2
+2014-12-28,00:59,Near Miss,Other,Dark,Dry,Major,Driver,NE,Neighbourhood 19,Division 1
+2014-11-08,18:04,Collision,Fog,Daylight,Dry,None,Driver,NW,Neighbourhood 8,Division 5
+2018-04-14,15:55,Collision,Clear,Daylight,Snow,None,Passenger,SE,Neighbourhood 3,Division 4
+2015-09-02,00:11,Collision,Rain,Dusk,Dry,None,Passenger,SW,Neighbourhood 8,Division 1
+2016-10-07,18:38,Collision,Clear,Dark,Dry,Minor,Cyclist,W,Neighbourhood 10,Division 5
+2020-11-20,14:27,Collision,Other,Dusk,Slush,None,Driver,S,Neighbourhood 4,Division 5
+2022-07-30,22:18,Collision,Rain,Daylight,Ice,Fatal,Passenger,N,Neighbourhood 16,Division 5
+2015-10-18,11:58,Collision,Fog,Dark,Ice,None,Driver,SW,Neighbourhood 7,Division 5
+2021-09-19,22:14,Collision,Fog,Dusk,Dry,Minor,Cyclist,SE,Neighbourhood 12,Division 5
+2019-04-15,16:27,Near Miss,Rain,Dusk,Ice,None,Pedestrian,S,Neighbourhood 13,Division 3
+2018-11-01,16:41,Near Miss,Clear,Dusk,Wet,None,Cyclist,N,Neighbourhood 2,Division 1
+2021-08-17,16:18,Collision,Snow,Dark,Ice,None,Driver,SW,Neighbourhood 12,Division 1
+2023-03-12,19:03,Collision,Other,Dark,Slush,None,Driver,S,Neighbourhood 8,Division 2
+2019-11-02,14:58,Near Miss,Other,Dawn,Snow,Fatal,Cyclist,SE,Neighbourhood 20,Division 3
+2020-02-07,10:12,Collision,Fog,Dawn,Snow,None,Cyclist,SW,Neighbourhood 17,Division 5
+2017-10-11,16:03,Collision,Fog,Dusk,Wet,None,Passenger,E,Neighbourhood 3,Division 4
+2017-10-02,04:52,Collision,Fog,Dawn,Ice,Minor,Cyclist,SE,Neighbourhood 14,Division 1
+2023-09-22,10:30,Near Miss,Rain,Dusk,Wet,None,Pedestrian,W,Neighbourhood 13,Division 4
+2016-05-20,05:06,Near Miss,Snow,Dusk,Dry,None,Passenger,E,Neighbourhood 11,Division 3
+2018-01-10,05:31,Near Miss,Fog,Dusk,Ice,None,Driver,SE,Neighbourhood 17,Division 3
+2020-10-08,17:46,Collision,Clear,Daylight,Ice,Minor,Driver,NE,Neighbourhood 9,Division 4
+2021-12-02,20:27,Near Miss,Rain,Daylight,Wet,Major,Cyclist,SW,Neighbourhood 15,Division 3
+2016-05-16,19:44,Collision,Other,Dark,Ice,None,Driver,W,Neighbourhood 18,Division 3
+2020-06-16,09:34,Near Miss,Snow,Daylight,Dry,Minor,Pedestrian,S,Neighbourhood 11,Division 3
+2021-08-16,04:37,Near Miss,Snow,Dawn,Ice,Minor,Driver,E,Neighbourhood 3,Division 3
+2022-06-17,02:56,Collision,Rain,Daylight,Wet,None,Driver,SE,Neighbourhood 9,Division 3
+2019-10-19,21:02,Near Miss,Other,Daylight,Ice,None,Pedestrian,SE,Neighbourhood 13,Division 1
+2015-01-28,02:32,Collision,Rain,Dusk,Snow,None,Passenger,S,Neighbourhood 15,Division 5
+2022-12-14,17:14,Near Miss,Fog,Dawn,Dry,None,Pedestrian,N,Neighbourhood 5,Division 3
+2013-05-09,05:43,Near Miss,Fog,Dark,Slush,None,Driver,NE,Neighbourhood 11,Division 1
+2021-08-30,19:23,Near Miss,Rain,Dark,Wet,Major,Cyclist,SE,Neighbourhood 6,Division 1
+2022-05-25,23:08,Collision,Clear,Daylight,Snow,None,Driver,E,Neighbourhood 2,Division 5
+2021-10-29,01:45,Collision,Snow,Dark,Snow,Minor,Driver,N,Neighbourhood 2,Division 4
+2014-11-06,13:04,Collision,Clear,Dusk,Slush,None,Pedestrian,W,Neighbourhood 1,Division 2
+2016-08-12,09:14,Collision,Fog,Dusk,Snow,Minor,Cyclist,SE,Neighbourhood 3,Division 3
+2015-03-12,02:40,Collision,Clear,Daylight,Ice,None,Pedestrian,NW,Neighbourhood 14,Division 1
+2016-08-08,15:44,Near Miss,Clear,Daylight,Slush,None,Passenger,W,Neighbourhood 6,Division 3
+2017-03-09,23:03,Near Miss,Rain,Daylight,Slush,Minor,Pedestrian,SE,Neighbourhood 16,Division 3
+2018-07-23,12:06,Collision,Other,Daylight,Dry,None,Pedestrian,W,Neighbourhood 7,Division 5
+2014-05-22,19:25,Near Miss,Fog,Dark,Ice,None,Passenger,SE,Neighbourhood 11,Division 3
+2013-10-31,18:44,Near Miss,Other,Daylight,Snow,None,Driver,SE,Neighbourhood 18,Division 2
+2018-03-21,13:28,Collision,Other,Dusk,Snow,Minor,Driver,SW,Neighbourhood 13,Division 3
+2015-11-29,18:28,Collision,Other,Dawn,Snow,None,Cyclist,NW,Neighbourhood 15,Division 2
+2015-07-16,15:29,Collision,Clear,Dawn,Snow,Minor,Driver,SE,Neighbourhood 4,Division 2
+2019-07-23,06:26,Near Miss,Clear,Dawn,Snow,Fatal,Passenger,S,Neighbourhood 5,Division 5
+2014-10-01,14:44,Collision,Snow,Dusk,Slush,None,Pedestrian,E,Neighbourhood 6,Division 4
+2022-05-27,11:05,Near Miss,Other,Dusk,Snow,None,Passenger,SW,Neighbourhood 7,Division 1
+2015-08-12,15:25,Near Miss,Clear,Daylight,Dry,None,Pedestrian,NW,Neighbourhood 10,Division 5
+2021-10-07,21:18,Near Miss,Other,Daylight,Wet,Minor,Driver,SE,Neighbourhood 5,Division 4
+2013-11-12,03:17,Collision,Snow,Dawn,Snow,None,Driver,S,Neighbourhood 15,Division 1
+2018-12-17,06:39,Collision,Fog,Dark,Snow,Minor,Passenger,NE,Neighbourhood 11,Division 3
+2020-11-19,07:59,Collision,Snow,Daylight,Wet,None,Passenger,NE,Neighbourhood 12,Division 3
+2013-06-13,14:44,Near Miss,Snow,Dawn,Wet,None,Cyclist,N,Neighbourhood 13,Division 4
+2013-04-13,18:31,Near Miss,Rain,Dark,Wet,None,Cyclist,NE,Neighbourhood 15,Division 1
+2021-02-22,03:37,Near Miss,Snow,Dawn,Slush,None,Cyclist,SE,Neighbourhood 9,Division 2
+2021-06-20,06:22,Near Miss,Clear,Dark,Ice,Minor,Cyclist,N,Neighbourhood 13,Division 2
+2018-12-04,11:18,Near Miss,Snow,Dark,Wet,None,Pedestrian,E,Neighbourhood 11,Division 1
+2017-04-08,05:48,Collision,Clear,Dusk,Snow,None,Pedestrian,E,Neighbourhood 18,Division 4
+2018-03-01,05:05,Collision,Rain,Dawn,Ice,Minor,Passenger,NE,Neighbourhood 4,Division 4
+2014-05-07,06:09,Near Miss,Snow,Dusk,Ice,Minor,Cyclist,E,Neighbourhood 2,Division 2
+2022-03-25,06:56,Near Miss,Clear,Dusk,Snow,None,Cyclist,S,Neighbourhood 5,Division 1
+2015-12-10,23:44,Collision,Snow,Daylight,Ice,None,Driver,S,Neighbourhood 15,Division 5
+2015-02-23,02:07,Collision,Rain,Dark,Slush,Minor,Passenger,SW,Neighbourhood 13,Division 4
+2015-10-07,20:18,Collision,Snow,Dark,Wet,Minor,Passenger,W,Neighbourhood 8,Division 2
+2017-04-12,02:16,Collision,Snow,Dark,Snow,None,Pedestrian,S,Neighbourhood 1,Division 2
+2022-04-11,22:19,Collision,Clear,Dark,Dry,None,Driver,SW,Neighbourhood 10,Division 3
+2023-10-14,06:11,Near Miss,Snow,Dark,Ice,Minor,Cyclist,NE,Neighbourhood 14,Division 2
+2016-05-15,20:43,Near Miss,Rain,Daylight,Dry,None,Cyclist,N,Neighbourhood 20,Division 5
+2015-12-22,11:02,Near Miss,Clear,Dusk,Dry,None,Pedestrian,S,Neighbourhood 6,Division 2
+2019-11-07,02:55,Collision,Clear,Daylight,Dry,None,Cyclist,NW,Neighbourhood 12,Division 5
+2019-11-11,15:10,Collision,Clear,Dawn,Ice,None,Pedestrian,W,Neighbourhood 10,Division 5
+2013-08-13,14:02,Collision,Clear,Dark,Wet,None,Passenger,E,Neighbourhood 18,Division 3
+2021-03-13,21:56,Collision,Fog,Dawn,Dry,None,Pedestrian,S,Neighbourhood 13,Division 4
+2016-06-02,23:30,Near Miss,Clear,Dusk,Snow,Minor,Pedestrian,SE,Neighbourhood 14,Division 3
+2013-06-20,17:53,Near Miss,Rain,Dawn,Ice,Minor,Driver,W,Neighbourhood 14,Division 3
+2019-03-29,00:24,Collision,Other,Dark,Dry,None,Cyclist,W,Neighbourhood 9,Division 5
+2013-03-07,16:19,Near Miss,Clear,Dawn,Dry,None,Cyclist,NW,Neighbourhood 4,Division 5
+2022-08-19,17:45,Collision,Fog,Dusk,Ice,Minor,Pedestrian,NW,Neighbourhood 2,Division 4
+2018-10-20,06:44,Near Miss,Rain,Daylight,Wet,None,Cyclist,SW,Neighbourhood 11,Division 3
+2014-03-16,16:13,Collision,Rain,Dusk,Dry,None,Passenger,E,Neighbourhood 1,Division 5
+2021-11-16,04:14,Collision,Clear,Daylight,Wet,None,Cyclist,NW,Neighbourhood 14,Division 3
+2021-11-24,20:04,Near Miss,Rain,Dusk,Dry,None,Cyclist,S,Neighbourhood 10,Division 3
+2013-02-14,15:01,Collision,Other,Daylight,Dry,None,Pedestrian,E,Neighbourhood 1,Division 2
+2020-07-07,12:22,Collision,Fog,Dawn,Ice,Minor,Passenger,NW,Neighbourhood 11,Division 4
+2017-11-04,04:43,Collision,Other,Dawn,Wet,Minor,Pedestrian,W,Neighbourhood 4,Division 2
+2022-12-06,17:28,Collision,Snow,Dawn,Ice,None,Cyclist,SW,Neighbourhood 4,Division 5
+2017-05-02,23:24,Near Miss,Other,Dawn,Dry,Minor,Driver,N,Neighbourhood 9,Division 3
+2013-01-18,02:05,Collision,Rain,Dawn,Slush,None,Passenger,S,Neighbourhood 14,Division 5
+2023-08-05,01:20,Collision,Clear,Dusk,Slush,Minor,Pedestrian,N,Neighbourhood 4,Division 4
+2023-08-20,16:14,Collision,Rain,Dark,Ice,Major,Driver,SW,Neighbourhood 16,Division 2
+2021-03-29,20:14,Collision,Clear,Dusk,Dry,None,Passenger,E,Neighbourhood 6,Division 5
+2017-05-26,18:27,Near Miss,Snow,Dawn,Slush,Minor,Driver,SE,Neighbourhood 7,Division 2
+2017-08-03,19:22,Collision,Snow,Dusk,Ice,None,Driver,N,Neighbourhood 19,Division 4
+2022-01-17,13:02,Near Miss,Other,Dark,Slush,None,Pedestrian,NW,Neighbourhood 19,Division 4
+2018-07-21,18:35,Near Miss,Fog,Dusk,Ice,None,Pedestrian,NE,Neighbourhood 15,Division 3
+2020-08-28,13:13,Near Miss,Other,Dusk,Dry,None,Cyclist,N,Neighbourhood 2,Division 5
+2023-04-23,09:32,Collision,Snow,Dusk,Dry,None,Pedestrian,S,Neighbourhood 2,Division 4
+2015-10-25,14:27,Collision,Snow,Daylight,Snow,None,Pedestrian,SE,Neighbourhood 15,Division 5
+2018-11-02,02:14,Near Miss,Clear,Dark,Wet,None,Pedestrian,NE,Neighbourhood 9,Division 4
+2014-01-05,22:48,Near Miss,Other,Dawn,Dry,None,Pedestrian,N,Neighbourhood 13,Division 5
+2018-11-04,06:50,Collision,Fog,Dark,Snow,None,Passenger,E,Neighbourhood 3,Division 1
+2023-03-02,18:05,Collision,Other,Dusk,Dry,Minor,Cyclist,S,Neighbourhood 18,Division 1
+2015-05-26,05:33,Near Miss,Fog,Dusk,Ice,Minor,Cyclist,SE,Neighbourhood 14,Division 3
+2022-06-21,14:50,Collision,Fog,Dusk,Snow,Minor,Pedestrian,W,Neighbourhood 6,Division 3
+2019-03-24,07:50,Collision,Other,Dark,Slush,Minor,Cyclist,SW,Neighbourhood 8,Division 3
+2017-05-16,06:23,Collision,Snow,Dark,Slush,None,Cyclist,S,Neighbourhood 19,Division 3
+2019-08-26,13:46,Collision,Other,Dawn,Slush,Major,Driver,SW,Neighbourhood 13,Division 4
+2017-02-20,09:16,Collision,Fog,Dawn,Ice,None,Driver,NW,Neighbourhood 19,Division 1
+2021-12-11,10:36,Collision,Snow,Dark,Snow,None,Driver,NW,Neighbourhood 16,Division 4
+2016-03-19,14:51,Collision,Snow,Dawn,Snow,None,Driver,E,Neighbourhood 20,Division 2
+2016-07-08,10:15,Near Miss,Snow,Dark,Ice,None,Pedestrian,W,Neighbourhood 5,Division 5
+2017-08-02,15:58,Collision,Rain,Dawn,Wet,Major,Driver,SE,Neighbourhood 1,Division 2
+2021-07-13,19:41,Near Miss,Rain,Daylight,Dry,None,Passenger,NE,Neighbourhood 11,Division 2
+2020-01-17,12:30,Collision,Rain,Daylight,Dry,Minor,Driver,S,Neighbourhood 7,Division 5
+2015-11-13,06:26,Near Miss,Fog,Dusk,Wet,None,Driver,SE,Neighbourhood 11,Division 4
+2016-06-09,10:44,Collision,Clear,Dark,Dry,None,Driver,NW,Neighbourhood 15,Division 3
+2021-01-30,02:38,Near Miss,Fog,Daylight,Wet,Minor,Passenger,SW,Neighbourhood 19,Division 5
+2021-07-13,04:58,Collision,Other,Dusk,Snow,Major,Pedestrian,NE,Neighbourhood 1,Division 1
+2019-07-30,12:41,Near Miss,Rain,Dusk,Slush,Minor,Cyclist,NE,Neighbourhood 18,Division 3
+2014-04-14,02:13,Collision,Clear,Daylight,Snow,Minor,Cyclist,SE,Neighbourhood 1,Division 4
+2015-08-30,23:02,Collision,Clear,Daylight,Ice,None,Cyclist,E,Neighbourhood 20,Division 2
+2015-11-28,00:27,Near Miss,Other,Daylight,Ice,Minor,Driver,W,Neighbourhood 16,Division 4
+2016-02-20,00:03,Collision,Snow,Daylight,Slush,None,Driver,S,Neighbourhood 20,Division 4
+2018-11-14,01:35,Near Miss,Fog,Daylight,Snow,None,Pedestrian,S,Neighbourhood 15,Division 3
+2017-05-13,02:26,Collision,Snow,Daylight,Slush,Minor,Passenger,SW,Neighbourhood 2,Division 5
+2020-01-31,05:29,Collision,Clear,Daylight,Slush,Minor,Passenger,NE,Neighbourhood 6,Division 3
+2014-08-01,03:06,Collision,Clear,Dawn,Wet,None,Passenger,SE,Neighbourhood 7,Division 2
+2022-07-11,16:13,Near Miss,Rain,Daylight,Slush,Minor,Pedestrian,W,Neighbourhood 1,Division 1
+2018-01-12,01:08,Near Miss,Snow,Dawn,Ice,None,Driver,SE,Neighbourhood 10,Division 2
+2022-11-22,11:17,Collision,Fog,Daylight,Ice,Minor,Driver,N,Neighbourhood 5,Division 1
+2021-07-29,17:02,Near Miss,Clear,Daylight,Dry,None,Driver,W,Neighbourhood 19,Division 4
+2021-12-20,17:52,Collision,Rain,Daylight,Snow,None,Driver,NE,Neighbourhood 15,Division 5
+2023-12-18,18:58,Collision,Snow,Dusk,Dry,Fatal,Cyclist,W,Neighbourhood 14,Division 4
+2019-06-27,07:37,Near Miss,Rain,Daylight,Ice,None,Driver,SE,Neighbourhood 8,Division 2
+2018-02-17,18:18,Near Miss,Rain,Daylight,Ice,None,Cyclist,N,Neighbourhood 1,Division 1
+2016-08-22,20:23,Near Miss,Clear,Dawn,Ice,None,Pedestrian,S,Neighbourhood 14,Division 2
+2020-10-08,03:18,Near Miss,Clear,Dawn,Dry,Minor,Cyclist,SE,Neighbourhood 2,Division 3
+2021-04-30,06:27,Near Miss,Snow,Dusk,Snow,Minor,Passenger,NW,Neighbourhood 16,Division 3
+2021-07-07,01:41,Collision,Fog,Dark,Slush,None,Cyclist,SE,Neighbourhood 16,Division 2
+2022-07-31,02:55,Collision,Other,Daylight,Wet,None,Cyclist,E,Neighbourhood 10,Division 1
+2015-04-21,11:16,Near Miss,Clear,Dawn,Ice,None,Cyclist,SW,Neighbourhood 18,Division 4
+2021-06-05,15:25,Near Miss,Snow,Dawn,Snow,Minor,Cyclist,S,Neighbourhood 14,Division 3
+2022-04-03,07:55,Collision,Clear,Dusk,Snow,Major,Pedestrian,S,Neighbourhood 17,Division 5
+2023-04-10,00:28,Near Miss,Rain,Dusk,Wet,Minor,Cyclist,NE,Neighbourhood 12,Division 2
+2020-06-07,13:00,Collision,Snow,Daylight,Slush,None,Cyclist,W,Neighbourhood 6,Division 3
+2022-06-12,05:37,Collision,Snow,Dusk,Wet,Major,Passenger,W,Neighbourhood 16,Division 1
+2013-11-01,00:26,Collision,Fog,Dark,Dry,Minor,Cyclist,SE,Neighbourhood 3,Division 1
+2019-12-28,06:40,Near Miss,Rain,Dusk,Wet,Minor,Driver,NW,Neighbourhood 18,Division 2
+2017-05-07,15:20,Collision,Snow,Dark,Dry,None,Cyclist,SE,Neighbourhood 2,Division 1
+2021-03-22,18:47,Near Miss,Clear,Dusk,Snow,Minor,Passenger,S,Neighbourhood 19,Division 5
+2021-02-17,00:49,Near Miss,Clear,Dark,Snow,Major,Pedestrian,E,Neighbourhood 18,Division 4
+2017-02-01,18:46,Collision,Snow,Dark,Slush,Major,Driver,W,Neighbourhood 8,Division 3
+2016-09-23,21:25,Collision,Snow,Dark,Dry,Minor,Pedestrian,SW,Neighbourhood 17,Division 1
+2020-05-25,01:13,Collision,Rain,Dawn,Snow,None,Pedestrian,S,Neighbourhood 19,Division 5
+2016-07-20,06:06,Near Miss,Fog,Dusk,Snow,Minor,Cyclist,NW,Neighbourhood 11,Division 3
+2020-07-10,03:55,Collision,Rain,Dawn,Slush,None,Pedestrian,N,Neighbourhood 11,Division 2
+2015-05-10,18:13,Collision,Other,Dusk,Wet,Minor,Pedestrian,W,Neighbourhood 9,Division 5
+2015-09-17,00:01,Near Miss,Clear,Dusk,Ice,None,Driver,S,Neighbourhood 6,Division 5
+2014-05-11,23:13,Collision,Clear,Dusk,Dry,None,Passenger,N,Neighbourhood 7,Division 4
+2021-08-21,06:21,Collision,Rain,Dawn,Ice,Minor,Driver,E,Neighbourhood 13,Division 1
+2021-05-16,22:37,Collision,Snow,Dawn,Wet,None,Pedestrian,S,Neighbourhood 6,Division 1
+2015-02-27,07:13,Near Miss,Other,Dark,Slush,None,Passenger,SW,Neighbourhood 7,Division 5
+2022-11-14,21:14,Collision,Other,Dark,Slush,None,Cyclist,E,Neighbourhood 17,Division 4
+2019-07-20,09:59,Collision,Clear,Dawn,Wet,Minor,Passenger,NE,Neighbourhood 12,Division 2
+2017-11-15,06:11,Near Miss,Other,Dusk,Snow,Minor,Cyclist,E,Neighbourhood 7,Division 5
+2016-04-15,12:48,Near Miss,Fog,Daylight,Slush,Minor,Cyclist,W,Neighbourhood 1,Division 4
+2016-05-02,13:43,Near Miss,Snow,Daylight,Wet,Major,Pedestrian,E,Neighbourhood 19,Division 4
+2019-04-24,21:37,Collision,Snow,Dawn,Ice,None,Driver,SE,Neighbourhood 16,Division 4
+2023-03-28,05:28,Collision,Other,Dusk,Ice,None,Pedestrian,N,Neighbourhood 18,Division 1
+2021-11-26,03:46,Near Miss,Other,Daylight,Ice,None,Passenger,SW,Neighbourhood 8,Division 5
+2017-10-15,14:20,Near Miss,Fog,Dawn,Wet,None,Cyclist,SW,Neighbourhood 20,Division 1
+2016-11-30,07:17,Collision,Clear,Daylight,Wet,None,Pedestrian,NW,Neighbourhood 7,Division 5
+2018-09-06,15:00,Collision,Rain,Dusk,Ice,Major,Driver,S,Neighbourhood 13,Division 1
+2020-03-04,20:50,Near Miss,Rain,Dawn,Ice,None,Cyclist,NW,Neighbourhood 6,Division 5
+2020-07-15,12:31,Collision,Rain,Dark,Ice,None,Pedestrian,NW,Neighbourhood 10,Division 5
+2022-01-19,22:39,Near Miss,Clear,Dawn,Dry,None,Driver,NW,Neighbourhood 17,Division 5
+2014-04-23,18:50,Collision,Snow,Dawn,Wet,None,Driver,SW,Neighbourhood 10,Division 3
+2023-01-25,02:06,Collision,Fog,Dawn,Dry,None,Cyclist,W,Neighbourhood 6,Division 3
+2015-10-15,16:01,Collision,Clear,Daylight,Wet,None,Cyclist,N,Neighbourhood 5,Division 2
+2017-06-19,08:01,Collision,Rain,Dusk,Ice,None,Driver,E,Neighbourhood 12,Division 2
+2015-11-22,18:16,Collision,Fog,Dawn,Ice,None,Pedestrian,N,Neighbourhood 6,Division 1
+2016-07-09,18:08,Collision,Other,Dark,Dry,None,Cyclist,W,Neighbourhood 13,Division 5
+2015-08-28,04:44,Collision,Rain,Dark,Dry,None,Driver,NE,Neighbourhood 2,Division 1
+2018-11-29,06:32,Collision,Snow,Dusk,Ice,None,Pedestrian,W,Neighbourhood 4,Division 1
+2020-11-23,02:48,Collision,Snow,Dusk,Dry,None,Pedestrian,SE,Neighbourhood 15,Division 2
+2018-12-01,20:24,Collision,Rain,Dusk,Slush,None,Passenger,S,Neighbourhood 17,Division 2
+2013-03-11,00:40,Near Miss,Rain,Daylight,Ice,None,Pedestrian,E,Neighbourhood 7,Division 3
+2019-11-07,01:02,Near Miss,Clear,Dark,Wet,Minor,Pedestrian,SE,Neighbourhood 18,Division 2
+2019-08-19,11:30,Collision,Fog,Dark,Slush,Minor,Driver,E,Neighbourhood 2,Division 2
+2021-05-28,06:28,Near Miss,Fog,Dark,Ice,None,Cyclist,S,Neighbourhood 5,Division 1
+2022-08-13,14:08,Near Miss,Fog,Daylight,Slush,None,Cyclist,NE,Neighbourhood 6,Division 1
+2017-11-16,19:15,Collision,Rain,Dark,Dry,None,Passenger,NW,Neighbourhood 16,Division 2
+2018-07-25,14:44,Collision,Rain,Daylight,Snow,Minor,Driver,NW,Neighbourhood 13,Division 2
+2022-10-18,18:34,Collision,Other,Dark,Slush,Major,Passenger,W,Neighbourhood 15,Division 5
+2017-02-25,14:51,Collision,Snow,Dusk,Slush,None,Cyclist,SW,Neighbourhood 14,Division 5
+2015-11-02,10:30,Near Miss,Fog,Dusk,Wet,None,Driver,E,Neighbourhood 3,Division 3
+2014-11-12,01:54,Collision,Clear,Daylight,Wet,None,Passenger,W,Neighbourhood 13,Division 1
+2013-12-14,01:02,Collision,Rain,Dark,Dry,None,Pedestrian,S,Neighbourhood 14,Division 4
+2020-07-02,13:06,Near Miss,Other,Dark,Dry,None,Pedestrian,NE,Neighbourhood 11,Division 2
+2016-12-11,05:08,Near Miss,Clear,Dark,Dry,None,Pedestrian,NW,Neighbourhood 3,Division 3
+2013-09-19,09:05,Near Miss,Other,Daylight,Dry,None,Pedestrian,S,Neighbourhood 17,Division 3
+2013-09-30,05:27,Near Miss,Snow,Dark,Wet,Minor,Driver,NW,Neighbourhood 4,Division 4
+2019-03-21,22:46,Collision,Clear,Dark,Slush,None,Driver,SW,Neighbourhood 17,Division 1
+2020-07-02,11:47,Collision,Rain,Dusk,Wet,Fatal,Passenger,NW,Neighbourhood 13,Division 4
+2015-02-10,10:29,Collision,Snow,Dark,Slush,Minor,Pedestrian,N,Neighbourhood 12,Division 4
+2015-12-03,00:31,Collision,Snow,Daylight,Ice,Minor,Pedestrian,NW,Neighbourhood 1,Division 2
+2023-05-21,11:20,Near Miss,Rain,Dusk,Slush,None,Pedestrian,W,Neighbourhood 1,Division 5
+2018-09-18,18:07,Collision,Clear,Dawn,Wet,Minor,Passenger,SE,Neighbourhood 15,Division 1
+2021-02-24,07:37,Near Miss,Snow,Dusk,Dry,None,Driver,S,Neighbourhood 20,Division 4
+2015-06-09,01:07,Collision,Snow,Dawn,Slush,Major,Cyclist,NW,Neighbourhood 2,Division 3
+2020-01-13,15:13,Collision,Other,Daylight,Wet,None,Pedestrian,NE,Neighbourhood 8,Division 4
+2019-11-21,11:24,Collision,Rain,Dawn,Slush,Minor,Passenger,N,Neighbourhood 9,Division 3
+2018-12-12,03:30,Collision,Clear,Dusk,Slush,Minor,Cyclist,E,Neighbourhood 15,Division 1
+2015-08-26,17:43,Collision,Fog,Dawn,Ice,Major,Passenger,SE,Neighbourhood 2,Division 3
+2015-10-01,14:48,Collision,Fog,Daylight,Wet,None,Driver,E,Neighbourhood 5,Division 2
+2018-02-22,19:46,Collision,Rain,Dark,Snow,None,Passenger,NW,Neighbourhood 7,Division 5
+2022-03-06,14:13,Near Miss,Fog,Dawn,Dry,Minor,Cyclist,NE,Neighbourhood 14,Division 4
+2015-07-29,01:48,Collision,Snow,Dusk,Ice,None,Driver,W,Neighbourhood 4,Division 4
+2021-07-10,15:42,Near Miss,Snow,Dusk,Dry,Minor,Passenger,SE,Neighbourhood 14,Division 2
+2018-09-26,09:52,Collision,Rain,Dark,Ice,None,Driver,NE,Neighbourhood 10,Division 3
+2016-09-04,12:38,Near Miss,Snow,Daylight,Slush,Minor,Cyclist,SE,Neighbourhood 15,Division 4
+2021-07-24,11:54,Collision,Other,Dawn,Ice,Minor,Driver,SE,Neighbourhood 18,Division 4
+2015-08-13,15:24,Collision,Fog,Daylight,Ice,None,Pedestrian,E,Neighbourhood 6,Division 4
+2016-09-14,14:48,Collision,Fog,Dark,Dry,None,Cyclist,NW,Neighbourhood 16,Division 1
+2017-09-01,14:23,Near Miss,Rain,Dawn,Slush,Major,Passenger,E,Neighbourhood 4,Division 3
+2020-09-04,16:54,Collision,Other,Dark,Slush,Minor,Cyclist,SW,Neighbourhood 19,Division 2
+2020-03-16,01:21,Collision,Rain,Dawn,Slush,None,Cyclist,SW,Neighbourhood 12,Division 4
+2020-12-09,17:04,Collision,Other,Dark,Snow,None,Cyclist,E,Neighbourhood 11,Division 2
+2014-10-21,11:02,Collision,Snow,Dusk,Snow,Minor,Driver,NW,Neighbourhood 17,Division 4
+2013-07-23,10:46,Near Miss,Other,Dawn,Ice,None,Cyclist,W,Neighbourhood 10,Division 3
+2019-04-20,09:16,Collision,Snow,Dusk,Ice,None,Cyclist,S,Neighbourhood 10,Division 5
+2014-04-04,17:13,Collision,Fog,Daylight,Wet,Minor,Driver,S,Neighbourhood 7,Division 2
+2013-03-05,21:30,Collision,Clear,Dusk,Wet,None,Driver,W,Neighbourhood 11,Division 5
+2021-07-19,05:22,Collision,Clear,Dark,Snow,Minor,Driver,NE,Neighbourhood 5,Division 1
+2015-12-07,09:07,Near Miss,Snow,Daylight,Snow,Minor,Passenger,N,Neighbourhood 1,Division 1
+2020-06-24,16:54,Collision,Fog,Dusk,Ice,Minor,Driver,S,Neighbourhood 19,Division 4
+2015-06-11,11:38,Near Miss,Fog,Dark,Dry,None,Passenger,SW,Neighbourhood 2,Division 4
+2023-09-18,20:28,Collision,Snow,Dark,Dry,Minor,Passenger,N,Neighbourhood 15,Division 1
+2020-06-19,18:35,Collision,Snow,Dawn,Slush,Fatal,Cyclist,S,Neighbourhood 3,Division 3
+2021-08-06,12:50,Near Miss,Fog,Dusk,Slush,Major,Driver,S,Neighbourhood 15,Division 5
+2020-09-09,23:57,Collision,Clear,Dark,Dry,None,Cyclist,SW,Neighbourhood 9,Division 5
+2013-02-11,02:07,Near Miss,Rain,Dark,Wet,None,Cyclist,N,Neighbourhood 20,Division 5
+2018-07-17,04:38,Near Miss,Fog,Dusk,Snow,None,Pedestrian,S,Neighbourhood 16,Division 5
+2021-01-14,02:17,Collision,Other,Dark,Snow,None,Pedestrian,W,Neighbourhood 19,Division 2
+2016-08-17,11:16,Collision,Snow,Dark,Ice,Minor,Driver,NW,Neighbourhood 10,Division 5
+2022-01-09,22:27,Near Miss,Rain,Dusk,Dry,Minor,Passenger,NW,Neighbourhood 9,Division 3
+2022-09-24,12:56,Near Miss,Fog,Dusk,Slush,None,Passenger,E,Neighbourhood 10,Division 2
+2022-05-31,15:44,Near Miss,Snow,Dusk,Slush,Minor,Passenger,SE,Neighbourhood 8,Division 2
+2017-12-26,11:29,Near Miss,Snow,Dark,Wet,Minor,Driver,N,Neighbourhood 18,Division 3
+2018-03-05,15:16,Collision,Snow,Dark,Slush,None,Driver,W,Neighbourhood 13,Division 3
+2018-09-01,15:37,Near Miss,Rain,Daylight,Snow,Minor,Cyclist,SW,Neighbourhood 14,Division 2
+2014-10-20,12:10,Near Miss,Snow,Dawn,Ice,None,Pedestrian,E,Neighbourhood 9,Division 4
+2022-09-20,15:59,Collision,Fog,Daylight,Dry,Minor,Pedestrian,NE,Neighbourhood 2,Division 5
+2015-03-17,05:00,Collision,Rain,Dark,Dry,None,Cyclist,NE,Neighbourhood 20,Division 3
+2019-12-24,20:15,Collision,Other,Dark,Ice,None,Driver,E,Neighbourhood 4,Division 5
+2013-06-27,05:20,Near Miss,Other,Daylight,Snow,Minor,Pedestrian,W,Neighbourhood 1,Division 2
+2017-01-30,15:52,Collision,Fog,Dusk,Slush,Minor,Passenger,W,Neighbourhood 15,Division 5
+2019-08-22,19:13,Collision,Rain,Dark,Snow,Minor,Cyclist,N,Neighbourhood 15,Division 3
+2023-06-23,12:20,Near Miss,Other,Dawn,Slush,None,Pedestrian,W,Neighbourhood 5,Division 2
+2015-05-13,18:08,Collision,Fog,Daylight,Dry,None,Driver,N,Neighbourhood 2,Division 3
+2014-12-22,00:30,Collision,Fog,Dawn,Dry,None,Driver,NW,Neighbourhood 15,Division 5
+2022-07-14,17:35,Near Miss,Clear,Dawn,Snow,Minor,Pedestrian,E,Neighbourhood 12,Division 2
+2018-02-11,09:23,Collision,Other,Daylight,Snow,None,Cyclist,E,Neighbourhood 8,Division 4
+2015-07-01,02:40,Collision,Clear,Dawn,Snow,None,Pedestrian,SW,Neighbourhood 1,Division 1
+2022-12-21,03:50,Collision,Fog,Dusk,Snow,None,Pedestrian,SE,Neighbourhood 2,Division 1
+2023-09-09,02:46,Collision,Other,Dusk,Snow,Minor,Cyclist,NW,Neighbourhood 5,Division 3
+2023-07-16,14:52,Collision,Snow,Dawn,Slush,Minor,Pedestrian,W,Neighbourhood 11,Division 4
+2019-01-09,20:55,Near Miss,Clear,Dusk,Wet,Major,Driver,E,Neighbourhood 18,Division 3
+2023-10-30,01:06,Near Miss,Clear,Dark,Slush,None,Driver,SW,Neighbourhood 16,Division 4
+2016-10-31,04:20,Near Miss,Snow,Dawn,Slush,None,Cyclist,SE,Neighbourhood 18,Division 1
+2017-02-19,13:03,Near Miss,Fog,Dawn,Snow,None,Cyclist,W,Neighbourhood 20,Division 5
+2017-08-15,10:09,Near Miss,Clear,Dusk,Snow,None,Cyclist,E,Neighbourhood 11,Division 1
+2016-02-09,07:44,Collision,Snow,Dusk,Dry,Minor,Pedestrian,N,Neighbourhood 5,Division 5
+2013-09-25,02:14,Collision,Snow,Dark,Snow,Fatal,Cyclist,NE,Neighbourhood 8,Division 1
+2013-11-17,11:52,Collision,Rain,Dark,Slush,None,Cyclist,N,Neighbourhood 17,Division 5
+2017-10-05,22:44,Near Miss,Clear,Dusk,Slush,None,Passenger,SW,Neighbourhood 3,Division 3
+2023-11-14,14:25,Near Miss,Fog,Daylight,Dry,Minor,Passenger,NE,Neighbourhood 20,Division 2
+2014-03-30,14:36,Collision,Clear,Daylight,Snow,Minor,Pedestrian,NW,Neighbourhood 11,Division 4
+2015-06-05,08:19,Near Miss,Fog,Dark,Dry,None,Pedestrian,S,Neighbourhood 6,Division 2
+2015-06-04,10:24,Near Miss,Other,Dark,Wet,None,Pedestrian,NE,Neighbourhood 18,Division 2
+2020-02-16,14:50,Collision,Fog,Dawn,Snow,None,Passenger,W,Neighbourhood 13,Division 2
+2018-08-08,13:53,Collision,Fog,Dark,Wet,Minor,Pedestrian,SE,Neighbourhood 4,Division 2
+2020-12-31,01:04,Near Miss,Clear,Daylight,Slush,Minor,Cyclist,N,Neighbourhood 8,Division 3
+2016-06-22,16:05,Near Miss,Snow,Dark,Wet,None,Pedestrian,SW,Neighbourhood 17,Division 3
+2022-04-21,23:47,Near Miss,Other,Dark,Slush,None,Passenger,E,Neighbourhood 18,Division 3
+2018-07-26,19:42,Collision,Snow,Dawn,Slush,None,Driver,W,Neighbourhood 16,Division 5
+2020-07-04,18:46,Collision,Rain,Dark,Snow,None,Pedestrian,N,Neighbourhood 13,Division 5
+2023-05-21,09:30,Near Miss,Fog,Daylight,Dry,None,Driver,W,Neighbourhood 17,Division 4
+2013-02-27,06:41,Collision,Clear,Dusk,Slush,Minor,Driver,S,Neighbourhood 4,Division 1
+2018-09-24,22:02,Near Miss,Fog,Daylight,Ice,None,Pedestrian,NW,Neighbourhood 12,Division 1
+2022-01-25,12:48,Near Miss,Other,Daylight,Slush,None,Passenger,SE,Neighbourhood 13,Division 1
+2016-08-10,07:03,Collision,Fog,Dawn,Ice,Minor,Passenger,W,Neighbourhood 2,Division 1
+2020-07-04,00:49,Near Miss,Clear,Dusk,Dry,Minor,Cyclist,SE,Neighbourhood 8,Division 3
+2019-10-17,23:29,Near Miss,Clear,Dawn,Slush,Minor,Pedestrian,S,Neighbourhood 16,Division 3
+2020-03-02,02:56,Collision,Snow,Dusk,Wet,Minor,Cyclist,SE,Neighbourhood 17,Division 5
+2023-07-08,15:09,Near Miss,Fog,Dusk,Snow,Minor,Passenger,SW,Neighbourhood 8,Division 3
+2015-07-27,00:39,Near Miss,Fog,Dusk,Wet,Minor,Cyclist,NW,Neighbourhood 11,Division 1
+2016-08-17,01:54,Near Miss,Rain,Dusk,Wet,Minor,Passenger,E,Neighbourhood 11,Division 2
+2022-03-20,04:23,Collision,Other,Daylight,Snow,None,Cyclist,S,Neighbourhood 5,Division 5
+2014-08-06,08:14,Collision,Snow,Dusk,Dry,None,Pedestrian,NW,Neighbourhood 17,Division 5
+2023-02-23,14:33,Collision,Snow,Dark,Snow,None,Cyclist,SW,Neighbourhood 18,Division 4
+2013-12-15,13:48,Near Miss,Snow,Daylight,Snow,Major,Pedestrian,SW,Neighbourhood 12,Division 2
+2020-07-18,01:16,Near Miss,Clear,Daylight,Snow,Major,Driver,SE,Neighbourhood 6,Division 5
+2023-08-23,03:36,Collision,Other,Dawn,Ice,Minor,Cyclist,NE,Neighbourhood 20,Division 1
+2020-01-01,06:16,Near Miss,Fog,Daylight,Slush,Fatal,Cyclist,SW,Neighbourhood 7,Division 3
+2017-08-16,11:34,Collision,Fog,Daylight,Dry,None,Driver,W,Neighbourhood 16,Division 2
+2021-11-08,14:14,Collision,Other,Dusk,Wet,None,Passenger,NW,Neighbourhood 17,Division 4
+2015-11-12,13:19,Collision,Clear,Dark,Ice,None,Pedestrian,E,Neighbourhood 18,Division 5
+2020-03-23,12:33,Collision,Other,Daylight,Dry,None,Cyclist,SW,Neighbourhood 17,Division 3
+2019-05-29,03:17,Near Miss,Other,Dawn,Wet,None,Driver,NE,Neighbourhood 11,Division 1
+2020-01-28,19:33,Near Miss,Fog,Dark,Snow,Minor,Passenger,SE,Neighbourhood 12,Division 1
+2013-04-12,17:11,Near Miss,Fog,Dark,Wet,None,Cyclist,N,Neighbourhood 20,Division 3
+2013-09-16,12:40,Collision,Rain,Daylight,Slush,None,Cyclist,NW,Neighbourhood 11,Division 1
+2023-10-15,07:40,Collision,Snow,Dark,Dry,None,Cyclist,N,Neighbourhood 9,Division 1
+2023-05-01,19:37,Collision,Snow,Dawn,Wet,Minor,Pedestrian,SW,Neighbourhood 5,Division 3
+2015-03-03,08:22,Near Miss,Clear,Daylight,Slush,Minor,Passenger,S,Neighbourhood 20,Division 5
+2020-08-08,11:24,Collision,Fog,Dark,Slush,None,Cyclist,NW,Neighbourhood 14,Division 2
+2016-08-17,02:09,Near Miss,Other,Daylight,Wet,None,Pedestrian,N,Neighbourhood 5,Division 4
+2020-06-14,18:05,Near Miss,Snow,Dawn,Ice,None,Cyclist,S,Neighbourhood 17,Division 3
+2013-10-20,16:09,Near Miss,Other,Dark,Snow,None,Cyclist,W,Neighbourhood 17,Division 4
+2023-10-16,14:30,Near Miss,Snow,Daylight,Slush,None,Passenger,SW,Neighbourhood 13,Division 1
+2014-05-22,19:34,Collision,Clear,Dusk,Wet,Minor,Driver,NE,Neighbourhood 11,Division 5
+2017-03-03,22:14,Collision,Fog,Daylight,Snow,None,Passenger,SW,Neighbourhood 9,Division 2
+2022-05-20,06:12,Collision,Snow,Dusk,Slush,Minor,Passenger,SW,Neighbourhood 19,Division 1
+2022-02-14,04:08,Collision,Fog,Dusk,Wet,None,Driver,E,Neighbourhood 3,Division 4
+2020-05-18,05:26,Collision,Clear,Dusk,Slush,Major,Cyclist,E,Neighbourhood 2,Division 4
+2020-09-23,14:08,Near Miss,Other,Dawn,Dry,None,Pedestrian,SW,Neighbourhood 12,Division 1
+2022-09-23,12:12,Near Miss,Snow,Dusk,Ice,Minor,Driver,SE,Neighbourhood 6,Division 4
+2018-01-30,19:11,Collision,Snow,Dusk,Snow,None,Cyclist,N,Neighbourhood 1,Division 1
+2020-09-13,18:38,Collision,Clear,Dark,Wet,Minor,Cyclist,W,Neighbourhood 13,Division 1
+2017-11-17,09:26,Near Miss,Fog,Daylight,Slush,Major,Cyclist,S,Neighbourhood 7,Division 2
+2023-01-04,14:48,Near Miss,Rain,Dawn,Snow,None,Cyclist,SW,Neighbourhood 10,Division 3
+2014-04-21,19:21,Collision,Rain,Dark,Dry,None,Pedestrian,NE,Neighbourhood 15,Division 3
+2013-08-13,07:11,Collision,Rain,Dark,Dry,Major,Pedestrian,NW,Neighbourhood 12,Division 1
+2020-10-11,07:15,Collision,Fog,Dark,Slush,Minor,Passenger,S,Neighbourhood 8,Division 5
+2022-07-20,14:25,Near Miss,Rain,Dusk,Snow,None,Driver,NW,Neighbourhood 15,Division 5
+2013-01-20,01:47,Near Miss,Fog,Dark,Dry,None,Pedestrian,S,Neighbourhood 16,Division 3
+2021-05-03,17:49,Near Miss,Snow,Dawn,Ice,None,Driver,NW,Neighbourhood 15,Division 2
+2021-08-07,09:37,Near Miss,Fog,Dawn,Wet,Minor,Cyclist,NE,Neighbourhood 12,Division 4
+2018-06-06,06:49,Near Miss,Clear,Dark,Wet,None,Driver,SW,Neighbourhood 11,Division 1
+2019-10-07,09:29,Collision,Fog,Dawn,Dry,None,Cyclist,N,Neighbourhood 12,Division 4
+2016-11-30,09:02,Near Miss,Clear,Dark,Ice,None,Driver,W,Neighbourhood 13,Division 1
+2018-02-13,14:30,Near Miss,Snow,Dusk,Ice,Minor,Driver,NE,Neighbourhood 14,Division 3
+2016-04-15,10:38,Collision,Other,Dusk,Ice,None,Passenger,N,Neighbourhood 14,Division 5
+2013-10-14,02:08,Collision,Rain,Dark,Ice,None,Pedestrian,E,Neighbourhood 6,Division 2
+2020-12-11,04:43,Collision,Other,Dark,Dry,None,Passenger,NE,Neighbourhood 19,Division 3
+2014-07-14,04:16,Collision,Other,Dark,Slush,None,Driver,S,Neighbourhood 4,Division 1
+2021-07-29,08:19,Near Miss,Snow,Dusk,Dry,None,Passenger,N,Neighbourhood 8,Division 1
+2022-05-27,18:45,Near Miss,Clear,Dark,Dry,Major,Cyclist,W,Neighbourhood 4,Division 2
+2016-10-15,13:02,Collision,Other,Daylight,Slush,None,Driver,N,Neighbourhood 4,Division 4
+2016-12-13,13:57,Collision,Clear,Daylight,Snow,Minor,Passenger,E,Neighbourhood 5,Division 1
+2023-04-28,01:51,Collision,Other,Dawn,Ice,None,Driver,SW,Neighbourhood 6,Division 3
+2020-01-03,23:54,Near Miss,Snow,Dusk,Wet,Minor,Passenger,NW,Neighbourhood 2,Division 1
+2016-09-21,04:54,Collision,Other,Dawn,Wet,Minor,Cyclist,NE,Neighbourhood 16,Division 2
+2018-08-16,12:31,Near Miss,Fog,Dusk,Slush,Minor,Passenger,SW,Neighbourhood 12,Division 2
+2017-10-22,18:41,Near Miss,Snow,Dawn,Dry,None,Driver,SW,Neighbourhood 19,Division 5
+2020-07-01,07:03,Collision,Snow,Dark,Dry,Minor,Pedestrian,NW,Neighbourhood 11,Division 1
+2022-12-26,02:57,Near Miss,Clear,Dawn,Snow,Minor,Cyclist,S,Neighbourhood 16,Division 5
+2014-12-20,11:38,Near Miss,Rain,Dusk,Dry,None,Cyclist,N,Neighbourhood 4,Division 4
+2015-11-28,20:34,Collision,Fog,Daylight,Snow,Minor,Pedestrian,S,Neighbourhood 16,Division 1
+2016-11-20,22:36,Collision,Other,Dusk,Snow,None,Cyclist,NE,Neighbourhood 15,Division 2
+2013-05-02,21:31,Collision,Fog,Dusk,Slush,None,Driver,NE,Neighbourhood 9,Division 1
+2013-05-21,19:28,Near Miss,Other,Dusk,Ice,Minor,Driver,N,Neighbourhood 14,Division 5
+2014-01-01,04:22,Collision,Fog,Dusk,Dry,None,Cyclist,SE,Neighbourhood 8,Division 4
+2019-10-01,21:50,Collision,Other,Dark,Dry,None,Cyclist,SE,Neighbourhood 8,Division 1
+2013-03-21,18:46,Collision,Other,Dusk,Snow,None,Driver,S,Neighbourhood 2,Division 4
+2017-09-03,02:13,Collision,Clear,Dark,Wet,Fatal,Driver,N,Neighbourhood 10,Division 3
+2013-11-19,19:58,Collision,Rain,Dusk,Snow,None,Driver,W,Neighbourhood 1,Division 5
+2018-07-30,21:58,Collision,Other,Dusk,Dry,None,Driver,NW,Neighbourhood 19,Division 2
+2018-11-19,04:11,Collision,Clear,Dawn,Snow,None,Driver,SW,Neighbourhood 15,Division 1
+2021-03-01,17:56,Collision,Rain,Daylight,Dry,None,Passenger,N,Neighbourhood 1,Division 2
+2020-01-13,21:11,Collision,Fog,Dawn,Dry,Minor,Cyclist,W,Neighbourhood 7,Division 2
+2019-11-03,03:15,Near Miss,Rain,Dusk,Ice,None,Passenger,NW,Neighbourhood 2,Division 5
+2022-06-11,13:04,Collision,Fog,Dusk,Snow,None,Driver,E,Neighbourhood 3,Division 2
+2023-06-22,06:15,Collision,Clear,Dark,Slush,None,Passenger,S,Neighbourhood 16,Division 4
+2019-11-05,19:47,Collision,Rain,Dawn,Snow,None,Passenger,SE,Neighbourhood 9,Division 1
+2021-03-29,00:53,Collision,Other,Dark,Wet,Minor,Passenger,W,Neighbourhood 2,Division 2
+2014-04-07,01:55,Near Miss,Fog,Dawn,Slush,None,Driver,SE,Neighbourhood 2,Division 2
+2017-04-19,00:46,Near Miss,Snow,Dark,Dry,Minor,Passenger,N,Neighbourhood 13,Division 1
+2023-02-03,18:14,Collision,Clear,Dawn,Slush,None,Cyclist,W,Neighbourhood 14,Division 3
+2017-11-10,08:57,Near Miss,Rain,Dawn,Ice,Minor,Cyclist,E,Neighbourhood 20,Division 3
+2013-09-24,10:22,Near Miss,Rain,Dawn,Slush,None,Driver,E,Neighbourhood 17,Division 3
+2023-07-05,10:54,Collision,Fog,Dark,Ice,Minor,Driver,W,Neighbourhood 5,Division 4
+2023-05-18,05:38,Near Miss,Snow,Daylight,Dry,Minor,Passenger,W,Neighbourhood 11,Division 5
+2020-06-29,15:33,Collision,Other,Dawn,Dry,None,Passenger,SW,Neighbourhood 4,Division 1
+2013-08-10,07:48,Collision,Fog,Dusk,Ice,None,Pedestrian,E,Neighbourhood 5,Division 1
+2020-11-29,00:36,Near Miss,Rain,Dusk,Wet,Fatal,Driver,W,Neighbourhood 8,Division 5
+2016-08-10,18:02,Near Miss,Snow,Daylight,Slush,Minor,Passenger,NE,Neighbourhood 1,Division 4
+2021-03-21,14:24,Collision,Fog,Dawn,Dry,None,Passenger,W,Neighbourhood 7,Division 4
+2023-05-07,14:46,Collision,Snow,Dusk,Wet,Major,Cyclist,SW,Neighbourhood 5,Division 1
+2015-05-26,20:58,Near Miss,Fog,Dawn,Wet,None,Driver,S,Neighbourhood 17,Division 3
+2021-02-28,12:21,Near Miss,Snow,Dusk,Dry,Minor,Passenger,SE,Neighbourhood 10,Division 1
+2022-08-26,09:55,Near Miss,Clear,Dawn,Ice,Minor,Pedestrian,SW,Neighbourhood 13,Division 3
+2018-01-03,17:24,Near Miss,Snow,Dusk,Dry,None,Passenger,NW,Neighbourhood 3,Division 1
+2013-04-10,08:48,Collision,Snow,Dark,Ice,None,Pedestrian,SE,Neighbourhood 4,Division 1
+2015-12-17,20:01,Near Miss,Rain,Dawn,Snow,None,Cyclist,N,Neighbourhood 8,Division 1
+2021-07-26,05:26,Collision,Fog,Dark,Ice,None,Passenger,SE,Neighbourhood 8,Division 2
+2020-11-05,11:37,Near Miss,Fog,Dusk,Dry,None,Driver,SE,Neighbourhood 6,Division 1
+2023-11-13,11:42,Near Miss,Clear,Dusk,Snow,None,Pedestrian,E,Neighbourhood 13,Division 4
+2013-03-10,01:03,Near Miss,Snow,Dusk,Snow,Minor,Pedestrian,W,Neighbourhood 14,Division 4
+2016-06-25,14:34,Collision,Rain,Dark,Ice,None,Driver,W,Neighbourhood 7,Division 5
+2015-10-18,16:10,Near Miss,Fog,Dusk,Dry,Minor,Pedestrian,N,Neighbourhood 10,Division 1
+2018-01-18,08:08,Collision,Snow,Daylight,Snow,Major,Pedestrian,SE,Neighbourhood 19,Division 5
+2018-11-14,08:54,Near Miss,Snow,Daylight,Snow,None,Passenger,SE,Neighbourhood 3,Division 4
+2020-01-30,14:50,Near Miss,Snow,Dawn,Slush,None,Pedestrian,S,Neighbourhood 1,Division 3
+2023-02-23,21:40,Near Miss,Clear,Dusk,Ice,None,Passenger,W,Neighbourhood 2,Division 3
+2016-04-04,11:43,Collision,Clear,Dusk,Ice,Major,Driver,SW,Neighbourhood 4,Division 5
+2021-12-06,19:41,Near Miss,Snow,Daylight,Snow,None,Cyclist,SW,Neighbourhood 5,Division 4
+2020-08-18,01:56,Near Miss,Snow,Dawn,Slush,None,Cyclist,NE,Neighbourhood 11,Division 3
+2015-02-06,06:17,Collision,Fog,Dusk,Snow,None,Cyclist,SW,Neighbourhood 6,Division 3
+2017-11-03,13:43,Collision,Rain,Dawn,Slush,Minor,Passenger,S,Neighbourhood 6,Division 2
+2022-06-15,01:08,Collision,Snow,Dusk,Ice,None,Driver,W,Neighbourhood 7,Division 2
+2021-12-26,13:30,Collision,Other,Daylight,Snow,None,Pedestrian,S,Neighbourhood 12,Division 1
+2016-06-09,09:06,Collision,Other,Dusk,Ice,None,Pedestrian,E,Neighbourhood 13,Division 4
+2023-11-10,01:39,Collision,Rain,Dawn,Ice,None,Passenger,NE,Neighbourhood 11,Division 5
+2017-04-23,11:27,Near Miss,Fog,Daylight,Wet,None,Passenger,W,Neighbourhood 20,Division 4
+2014-04-11,12:37,Near Miss,Other,Dusk,Ice,Major,Driver,SE,Neighbourhood 11,Division 2
+2013-03-12,08:28,Near Miss,Clear,Dawn,Wet,None,Cyclist,NW,Neighbourhood 3,Division 1
+2016-09-18,19:43,Collision,Snow,Dark,Slush,None,Pedestrian,S,Neighbourhood 11,Division 1
+2022-01-29,13:04,Near Miss,Rain,Dusk,Wet,None,Driver,SW,Neighbourhood 2,Division 4
+2021-08-30,08:20,Near Miss,Fog,Daylight,Ice,Minor,Passenger,N,Neighbourhood 3,Division 5
+2017-02-17,05:08,Collision,Clear,Daylight,Dry,None,Cyclist,W,Neighbourhood 10,Division 2
+2020-08-06,09:16,Collision,Other,Daylight,Slush,Minor,Cyclist,SW,Neighbourhood 5,Division 3
+2019-09-08,21:09,Collision,Fog,Dawn,Slush,Minor,Passenger,N,Neighbourhood 16,Division 4
+2019-01-09,08:08,Collision,Fog,Dark,Slush,Minor,Passenger,SW,Neighbourhood 10,Division 1
+2022-06-08,19:10,Collision,Clear,Dark,Dry,None,Driver,E,Neighbourhood 19,Division 3
+2016-12-03,19:31,Near Miss,Clear,Dawn,Dry,None,Pedestrian,NE,Neighbourhood 13,Division 1
+2016-05-11,22:37,Near Miss,Clear,Dawn,Slush,Major,Cyclist,NW,Neighbourhood 16,Division 2
+2019-08-21,03:30,Collision,Clear,Daylight,Ice,None,Pedestrian,SW,Neighbourhood 14,Division 4
+2016-08-04,09:23,Collision,Snow,Dusk,Ice,Major,Pedestrian,N,Neighbourhood 14,Division 3
+2019-08-22,22:49,Collision,Clear,Dusk,Snow,Minor,Driver,SW,Neighbourhood 17,Division 3
+2015-09-26,18:52,Near Miss,Fog,Dawn,Snow,None,Passenger,E,Neighbourhood 14,Division 3
+2021-02-16,22:05,Near Miss,Fog,Dawn,Dry,None,Passenger,S,Neighbourhood 19,Division 3
+2013-03-02,04:24,Near Miss,Fog,Daylight,Wet,Major,Cyclist,N,Neighbourhood 17,Division 5
+2019-10-29,07:08,Near Miss,Fog,Daylight,Wet,None,Cyclist,E,Neighbourhood 6,Division 2
+2022-06-25,17:25,Collision,Snow,Dawn,Snow,None,Cyclist,E,Neighbourhood 15,Division 4
+2018-05-09,10:45,Near Miss,Other,Daylight,Snow,None,Passenger,E,Neighbourhood 11,Division 3
+2018-05-14,17:31,Near Miss,Other,Dark,Slush,Major,Pedestrian,NW,Neighbourhood 7,Division 1
+2013-12-06,02:03,Near Miss,Fog,Dark,Ice,None,Pedestrian,S,Neighbourhood 7,Division 3
+2017-05-20,05:04,Near Miss,Other,Dawn,Wet,None,Passenger,NW,Neighbourhood 11,Division 2
+2021-01-30,00:11,Collision,Snow,Dark,Slush,None,Driver,SW,Neighbourhood 16,Division 4
+2023-06-02,20:41,Near Miss,Other,Dark,Slush,None,Cyclist,SW,Neighbourhood 18,Division 2
+2018-07-05,19:07,Near Miss,Other,Daylight,Wet,Fatal,Cyclist,SW,Neighbourhood 16,Division 4
+2013-05-25,19:11,Near Miss,Clear,Dark,Dry,None,Pedestrian,SW,Neighbourhood 1,Division 2
+2019-09-24,07:41,Collision,Fog,Dusk,Ice,None,Driver,SW,Neighbourhood 12,Division 3
+2014-03-21,08:56,Collision,Clear,Dark,Slush,Minor,Cyclist,E,Neighbourhood 1,Division 1
+2014-09-28,13:33,Collision,Clear,Daylight,Wet,None,Driver,NE,Neighbourhood 12,Division 3
+2014-09-23,09:45,Near Miss,Rain,Dark,Wet,Major,Cyclist,SW,Neighbourhood 9,Division 4
+2015-12-15,05:46,Near Miss,Snow,Dark,Dry,None,Driver,W,Neighbourhood 17,Division 5
+2016-02-14,15:37,Near Miss,Rain,Dusk,Ice,None,Passenger,N,Neighbourhood 14,Division 1
+2021-10-03,02:30,Collision,Fog,Dark,Snow,Minor,Passenger,E,Neighbourhood 17,Division 5
+2017-12-29,08:10,Near Miss,Clear,Dawn,Snow,Minor,Pedestrian,E,Neighbourhood 16,Division 3
+2018-02-16,14:38,Collision,Other,Dusk,Slush,None,Passenger,NW,Neighbourhood 14,Division 3
+2019-05-19,15:40,Near Miss,Other,Dusk,Dry,None,Cyclist,SW,Neighbourhood 9,Division 5
+2016-08-25,19:46,Collision,Fog,Daylight,Wet,None,Pedestrian,N,Neighbourhood 1,Division 2
+2021-04-27,02:58,Collision,Other,Daylight,Ice,None,Pedestrian,N,Neighbourhood 4,Division 2
+2014-04-04,04:04,Near Miss,Snow,Dark,Snow,None,Passenger,W,Neighbourhood 4,Division 1
+2023-04-18,04:41,Collision,Other,Daylight,Snow,Minor,Pedestrian,NE,Neighbourhood 16,Division 4
+2014-09-10,04:02,Collision,Snow,Dark,Wet,Minor,Driver,S,Neighbourhood 3,Division 4
+2018-12-01,14:30,Collision,Fog,Dusk,Snow,Minor,Passenger,W,Neighbourhood 16,Division 5
+2014-10-28,07:13,Near Miss,Rain,Daylight,Dry,None,Cyclist,NW,Neighbourhood 17,Division 5
+2019-09-19,13:17,Collision,Other,Daylight,Snow,Minor,Pedestrian,E,Neighbourhood 4,Division 4
+2017-10-18,16:09,Collision,Other,Daylight,Slush,Minor,Passenger,NW,Neighbourhood 17,Division 1
+2021-03-23,00:39,Collision,Clear,Daylight,Slush,None,Cyclist,NE,Neighbourhood 9,Division 1
+2022-09-28,01:57,Near Miss,Snow,Dark,Snow,Minor,Pedestrian,SW,Neighbourhood 18,Division 3
+2014-07-09,04:26,Near Miss,Fog,Daylight,Slush,Minor,Driver,NE,Neighbourhood 1,Division 4
+2018-10-16,12:23,Collision,Snow,Dusk,Ice,Minor,Cyclist,NW,Neighbourhood 18,Division 4
+2020-10-01,22:11,Near Miss,Clear,Dawn,Dry,Major,Driver,NW,Neighbourhood 15,Division 4
+2015-01-29,13:02,Near Miss,Rain,Daylight,Wet,None,Pedestrian,NW,Neighbourhood 14,Division 1
+2013-07-31,06:12,Collision,Snow,Daylight,Slush,None,Passenger,SW,Neighbourhood 13,Division 2
+2018-05-31,07:06,Collision,Snow,Dawn,Ice,Minor,Passenger,S,Neighbourhood 2,Division 2
+2020-01-29,08:38,Collision,Other,Dawn,Slush,None,Cyclist,SE,Neighbourhood 9,Division 1
+2019-11-30,05:02,Near Miss,Clear,Dusk,Snow,None,Cyclist,SE,Neighbourhood 18,Division 2
+2018-04-06,12:33,Near Miss,Fog,Dusk,Snow,None,Pedestrian,NE,Neighbourhood 11,Division 3
+2014-12-08,13:28,Near Miss,Snow,Dawn,Dry,Major,Cyclist,E,Neighbourhood 7,Division 3
+2017-09-24,22:13,Collision,Fog,Dusk,Ice,None,Cyclist,SW,Neighbourhood 15,Division 2
+2014-06-02,06:45,Collision,Snow,Dark,Ice,None,Driver,W,Neighbourhood 4,Division 1
+2020-07-15,07:12,Near Miss,Fog,Dusk,Snow,Minor,Cyclist,NE,Neighbourhood 12,Division 4
+2022-06-22,19:52,Collision,Fog,Daylight,Snow,None,Cyclist,NE,Neighbourhood 18,Division 4
+2019-01-30,22:00,Collision,Other,Dark,Dry,Minor,Pedestrian,W,Neighbourhood 20,Division 4
+2020-08-28,19:49,Near Miss,Fog,Dawn,Slush,None,Cyclist,NE,Neighbourhood 5,Division 2
+2016-01-23,17:38,Near Miss,Clear,Dawn,Wet,Minor,Pedestrian,SE,Neighbourhood 11,Division 2
+2019-10-08,04:33,Collision,Other,Dark,Slush,None,Passenger,SE,Neighbourhood 13,Division 1
+2018-09-02,01:01,Near Miss,Snow,Dawn,Dry,Major,Passenger,NW,Neighbourhood 15,Division 2
+2016-02-26,06:25,Collision,Snow,Dawn,Dry,None,Passenger,E,Neighbourhood 18,Division 2
+2018-07-19,13:54,Collision,Fog,Daylight,Ice,Major,Passenger,NE,Neighbourhood 9,Division 3
+2019-05-27,15:08,Near Miss,Clear,Dusk,Dry,Major,Pedestrian,SW,Neighbourhood 20,Division 3
+2014-11-01,18:36,Near Miss,Clear,Daylight,Snow,None,Pedestrian,E,Neighbourhood 15,Division 5
+2022-10-16,22:59,Collision,Other,Dawn,Slush,None,Passenger,S,Neighbourhood 14,Division 4
+2018-06-20,15:20,Near Miss,Fog,Dawn,Dry,Minor,Driver,NE,Neighbourhood 5,Division 1
+2016-09-01,10:33,Near Miss,Other,Daylight,Ice,Major,Driver,SE,Neighbourhood 18,Division 3
+2023-06-30,16:22,Near Miss,Clear,Dark,Dry,None,Cyclist,S,Neighbourhood 12,Division 2
+2022-12-28,09:01,Near Miss,Fog,Dawn,Slush,None,Pedestrian,N,Neighbourhood 8,Division 4
+2016-05-20,05:03,Near Miss,Other,Dawn,Slush,None,Driver,NW,Neighbourhood 1,Division 1
+2015-06-14,22:59,Collision,Clear,Dawn,Snow,None,Driver,S,Neighbourhood 8,Division 3
+2016-04-27,12:20,Collision,Other,Dusk,Snow,Major,Cyclist,SE,Neighbourhood 14,Division 5
+2022-10-19,17:22,Near Miss,Rain,Daylight,Slush,Minor,Driver,N,Neighbourhood 10,Division 2
+2019-10-26,01:22,Collision,Snow,Dawn,Snow,None,Pedestrian,S,Neighbourhood 17,Division 5
+2021-01-05,03:50,Collision,Fog,Dawn,Slush,None,Driver,NE,Neighbourhood 16,Division 2
+2019-09-17,08:34,Near Miss,Clear,Dusk,Slush,None,Cyclist,SW,Neighbourhood 7,Division 5
+2015-04-05,20:04,Collision,Other,Dawn,Snow,None,Pedestrian,SE,Neighbourhood 7,Division 4
+2014-01-13,21:41,Collision,Snow,Dark,Snow,Major,Pedestrian,SE,Neighbourhood 20,Division 2
+2018-04-16,20:42,Near Miss,Snow,Daylight,Slush,None,Cyclist,S,Neighbourhood 14,Division 2
+2021-11-23,02:43,Near Miss,Other,Dark,Wet,Minor,Driver,SE,Neighbourhood 11,Division 5
+2019-03-31,04:56,Near Miss,Rain,Dawn,Snow,Minor,Cyclist,SW,Neighbourhood 16,Division 1
+2020-04-10,09:46,Collision,Other,Daylight,Wet,None,Passenger,SE,Neighbourhood 10,Division 5
+2014-03-19,16:00,Near Miss,Other,Dark,Snow,Major,Driver,E,Neighbourhood 1,Division 1
+2013-10-14,15:10,Near Miss,Clear,Daylight,Ice,Minor,Driver,E,Neighbourhood 10,Division 4
+2020-02-27,12:40,Collision,Clear,Daylight,Ice,Minor,Passenger,NW,Neighbourhood 10,Division 5
+2023-02-09,16:34,Collision,Clear,Dawn,Ice,None,Pedestrian,S,Neighbourhood 18,Division 5
+2020-07-26,04:22,Collision,Rain,Dark,Slush,Minor,Pedestrian,NE,Neighbourhood 17,Division 3
+2015-03-01,07:45,Collision,Fog,Daylight,Snow,None,Cyclist,N,Neighbourhood 20,Division 4
+2023-11-10,19:58,Near Miss,Rain,Dawn,Dry,None,Passenger,N,Neighbourhood 5,Division 1
+2018-08-26,07:17,Near Miss,Clear,Daylight,Snow,Minor,Driver,N,Neighbourhood 6,Division 1
+2021-12-13,22:42,Near Miss,Snow,Dark,Dry,Minor,Passenger,S,Neighbourhood 1,Division 1
+2017-10-06,09:53,Collision,Other,Daylight,Slush,Minor,Cyclist,E,Neighbourhood 2,Division 5
+2021-08-30,04:05,Near Miss,Snow,Dark,Wet,None,Cyclist,NE,Neighbourhood 8,Division 3
+2013-03-06,06:17,Collision,Rain,Dark,Ice,Minor,Pedestrian,SE,Neighbourhood 19,Division 1
+2023-09-15,02:17,Near Miss,Rain,Dawn,Wet,Major,Cyclist,E,Neighbourhood 5,Division 2
+2014-10-16,01:42,Near Miss,Rain,Daylight,Dry,Minor,Pedestrian,SW,Neighbourhood 16,Division 1
+2020-03-08,00:30,Near Miss,Fog,Dawn,Ice,Major,Driver,N,Neighbourhood 6,Division 2
+2016-10-27,07:13,Collision,Snow,Dark,Snow,None,Cyclist,SE,Neighbourhood 20,Division 2
+2021-02-05,08:49,Collision,Fog,Dusk,Wet,None,Driver,SE,Neighbourhood 11,Division 1
+2017-07-07,14:17,Near Miss,Clear,Dusk,Dry,None,Driver,NW,Neighbourhood 19,Division 5
+2018-12-13,21:55,Collision,Clear,Dark,Snow,None,Passenger,S,Neighbourhood 9,Division 5
+2021-01-08,05:00,Collision,Rain,Dusk,Wet,None,Driver,S,Neighbourhood 15,Division 5
+2022-04-12,20:14,Near Miss,Rain,Daylight,Ice,Minor,Passenger,NE,Neighbourhood 7,Division 4
+2017-02-06,02:49,Near Miss,Rain,Dark,Snow,Minor,Pedestrian,W,Neighbourhood 3,Division 3
+2022-10-06,22:56,Near Miss,Other,Dusk,Wet,None,Cyclist,SE,Neighbourhood 7,Division 2
+2013-04-07,16:31,Near Miss,Snow,Daylight,Slush,Major,Passenger,SE,Neighbourhood 1,Division 3
+2020-08-10,00:53,Collision,Other,Daylight,Wet,None,Cyclist,E,Neighbourhood 14,Division 3
+2014-10-17,16:09,Near Miss,Snow,Dusk,Ice,None,Passenger,N,Neighbourhood 11,Division 2
+2014-12-31,10:47,Collision,Fog,Daylight,Slush,None,Driver,SE,Neighbourhood 9,Division 3
+2014-01-25,05:02,Near Miss,Snow,Daylight,Dry,Major,Pedestrian,SW,Neighbourhood 9,Division 3
+2013-02-26,22:08,Collision,Rain,Dawn,Ice,None,Passenger,N,Neighbourhood 15,Division 5
+2014-12-28,13:40,Near Miss,Other,Dusk,Wet,None,Cyclist,SW,Neighbourhood 3,Division 5
+2020-05-12,20:25,Collision,Other,Dark,Wet,None,Cyclist,W,Neighbourhood 3,Division 5
+2016-05-20,07:46,Near Miss,Snow,Dusk,Wet,None,Driver,W,Neighbourhood 5,Division 5
+2014-09-01,09:13,Near Miss,Rain,Dusk,Slush,None,Pedestrian,E,Neighbourhood 12,Division 2
+2015-11-22,06:10,Near Miss,Rain,Dawn,Dry,None,Passenger,S,Neighbourhood 7,Division 2
+2021-05-19,19:34,Collision,Rain,Dark,Wet,None,Passenger,SE,Neighbourhood 12,Division 5
+2014-04-26,11:36,Collision,Other,Dark,Snow,None,Passenger,NE,Neighbourhood 4,Division 5
+2022-04-29,15:03,Near Miss,Other,Dark,Dry,Minor,Driver,SE,Neighbourhood 2,Division 1
+2016-08-13,05:33,Near Miss,Clear,Dark,Snow,Minor,Cyclist,N,Neighbourhood 3,Division 2
+2016-02-16,03:56,Collision,Fog,Dark,Wet,None,Cyclist,SE,Neighbourhood 20,Division 1
+2013-07-30,11:43,Near Miss,Clear,Dark,Snow,Minor,Driver,SW,Neighbourhood 16,Division 2
+2016-08-26,04:50,Collision,Fog,Dawn,Wet,None,Pedestrian,NW,Neighbourhood 5,Division 4
+2019-02-28,04:13,Near Miss,Snow,Dusk,Wet,None,Pedestrian,NE,Neighbourhood 6,Division 4
+2022-04-07,10:55,Collision,Clear,Daylight,Slush,None,Cyclist,NE,Neighbourhood 15,Division 4
+2014-11-09,00:39,Collision,Fog,Dawn,Snow,Minor,Pedestrian,NW,Neighbourhood 12,Division 1
+2022-09-27,05:09,Near Miss,Fog,Dawn,Snow,None,Driver,NW,Neighbourhood 10,Division 2
+2014-11-28,08:09,Near Miss,Snow,Dusk,Wet,Minor,Cyclist,W,Neighbourhood 2,Division 1
+2023-04-04,04:26,Collision,Clear,Dusk,Dry,None,Driver,N,Neighbourhood 17,Division 4
+2021-02-25,21:33,Collision,Other,Dark,Wet,None,Driver,W,Neighbourhood 7,Division 4
+2017-10-25,04:29,Near Miss,Other,Dusk,Ice,Minor,Passenger,W,Neighbourhood 10,Division 3
+2021-06-20,17:54,Near Miss,Other,Dark,Snow,Minor,Pedestrian,N,Neighbourhood 6,Division 1
+2014-12-03,01:57,Near Miss,Other,Dark,Wet,Minor,Passenger,N,Neighbourhood 16,Division 5
+2016-09-21,06:11,Collision,Rain,Dark,Snow,None,Pedestrian,SE,Neighbourhood 18,Division 4
+2020-01-06,02:56,Near Miss,Rain,Daylight,Slush,None,Passenger,SE,Neighbourhood 1,Division 1
+2016-09-23,02:03,Near Miss,Rain,Dawn,Ice,Minor,Cyclist,S,Neighbourhood 18,Division 4
+2014-02-03,10:03,Collision,Rain,Dusk,Snow,Minor,Cyclist,NW,Neighbourhood 19,Division 3
+2020-10-24,01:12,Near Miss,Other,Daylight,Slush,Minor,Cyclist,N,Neighbourhood 6,Division 5
+2017-04-26,00:12,Collision,Clear,Dawn,Slush,Minor,Passenger,SW,Neighbourhood 16,Division 5
+2019-01-18,14:51,Near Miss,Clear,Daylight,Dry,Major,Passenger,SW,Neighbourhood 6,Division 2
+2019-03-09,11:46,Collision,Other,Dawn,Dry,None,Passenger,W,Neighbourhood 10,Division 3
+2016-01-27,04:32,Collision,Rain,Daylight,Ice,None,Cyclist,NE,Neighbourhood 19,Division 2
+2015-01-29,18:17,Collision,Rain,Dawn,Snow,None,Pedestrian,E,Neighbourhood 19,Division 1
+2014-01-10,12:39,Near Miss,Snow,Daylight,Ice,None,Pedestrian,SE,Neighbourhood 16,Division 1
+2017-12-19,17:38,Near Miss,Fog,Dawn,Snow,Minor,Pedestrian,N,Neighbourhood 14,Division 4
+2022-04-25,15:41,Collision,Snow,Daylight,Ice,Minor,Cyclist,S,Neighbourhood 16,Division 2
+2015-02-27,05:44,Near Miss,Clear,Dawn,Wet,None,Driver,W,Neighbourhood 17,Division 1
+2020-02-06,15:16,Collision,Clear,Daylight,Ice,None,Cyclist,NE,Neighbourhood 18,Division 2
+2014-09-24,20:22,Collision,Other,Dark,Snow,None,Pedestrian,NW,Neighbourhood 1,Division 2
+2022-08-20,23:02,Collision,Rain,Dawn,Slush,None,Passenger,E,Neighbourhood 15,Division 2
+2014-12-26,00:17,Collision,Fog,Daylight,Dry,Minor,Driver,NW,Neighbourhood 7,Division 2
+2019-09-04,20:21,Collision,Fog,Daylight,Snow,None,Passenger,N,Neighbourhood 16,Division 5
+2013-03-17,22:18,Near Miss,Rain,Daylight,Dry,None,Driver,NW,Neighbourhood 7,Division 1
+2016-11-16,07:56,Collision,Clear,Daylight,Snow,None,Driver,N,Neighbourhood 6,Division 3
+2017-11-19,00:31,Near Miss,Other,Dusk,Dry,None,Passenger,S,Neighbourhood 4,Division 1
+2019-07-05,04:49,Near Miss,Snow,Dark,Snow,Major,Passenger,S,Neighbourhood 2,Division 1
+2022-12-06,14:35,Near Miss,Clear,Dark,Slush,None,Passenger,SE,Neighbourhood 10,Division 3
+2019-10-23,10:25,Collision,Other,Dawn,Wet,None,Pedestrian,W,Neighbourhood 20,Division 1
+2018-05-15,03:43,Near Miss,Clear,Dark,Snow,None,Passenger,SW,Neighbourhood 20,Division 4
+2022-01-13,17:39,Collision,Other,Dawn,Wet,None,Passenger,NE,Neighbourhood 7,Division 2
+2013-02-20,12:20,Near Miss,Clear,Daylight,Snow,None,Pedestrian,NE,Neighbourhood 3,Division 2
+2023-01-20,09:05,Near Miss,Rain,Dark,Dry,Minor,Passenger,SW,Neighbourhood 8,Division 1
+2020-10-10,05:29,Collision,Fog,Dark,Slush,None,Driver,N,Neighbourhood 3,Division 3
+2019-03-20,02:23,Near Miss,Snow,Dark,Dry,Minor,Passenger,W,Neighbourhood 6,Division 5
+2021-10-06,13:54,Collision,Clear,Daylight,Ice,Minor,Cyclist,SW,Neighbourhood 5,Division 2
+2019-02-24,16:55,Near Miss,Clear,Dark,Wet,None,Passenger,S,Neighbourhood 16,Division 2
+2016-05-27,15:40,Collision,Snow,Dark,Wet,None,Pedestrian,E,Neighbourhood 12,Division 5
+2016-09-22,08:21,Collision,Snow,Dusk,Snow,None,Passenger,S,Neighbourhood 18,Division 5
+2016-01-06,14:09,Collision,Fog,Daylight,Snow,Major,Passenger,SW,Neighbourhood 7,Division 1
+2015-07-31,07:25,Collision,Fog,Dawn,Snow,None,Cyclist,SW,Neighbourhood 14,Division 5
+2016-05-06,04:11,Near Miss,Clear,Daylight,Snow,Minor,Pedestrian,SW,Neighbourhood 17,Division 2
+2018-05-25,07:20,Collision,Rain,Dark,Ice,None,Passenger,S,Neighbourhood 8,Division 1
+2018-06-24,18:14,Collision,Other,Daylight,Ice,Minor,Driver,NW,Neighbourhood 10,Division 3
+2014-11-26,15:15,Near Miss,Snow,Dusk,Ice,None,Cyclist,NW,Neighbourhood 10,Division 4
+2018-01-27,16:40,Near Miss,Snow,Dawn,Slush,None,Cyclist,N,Neighbourhood 7,Division 5
+2016-09-21,13:21,Collision,Other,Dark,Slush,None,Cyclist,E,Neighbourhood 2,Division 3
+2018-05-24,02:06,Collision,Clear,Dawn,Snow,None,Cyclist,S,Neighbourhood 12,Division 3
+2018-09-07,23:12,Collision,Fog,Dusk,Snow,None,Driver,S,Neighbourhood 11,Division 2
+2017-12-10,23:31,Near Miss,Snow,Daylight,Ice,None,Pedestrian,NW,Neighbourhood 11,Division 2
+2020-04-18,21:06,Near Miss,Clear,Daylight,Dry,None,Cyclist,E,Neighbourhood 7,Division 1
+2017-12-03,18:14,Near Miss,Snow,Dawn,Dry,None,Passenger,N,Neighbourhood 4,Division 4
+2018-08-12,05:30,Near Miss,Other,Dawn,Dry,None,Pedestrian,NE,Neighbourhood 8,Division 3
+2020-06-03,04:26,Near Miss,Snow,Dusk,Ice,None,Passenger,E,Neighbourhood 2,Division 3
+2017-07-10,19:40,Near Miss,Fog,Dark,Snow,Minor,Cyclist,N,Neighbourhood 6,Division 2
+2013-11-17,12:18,Collision,Fog,Dusk,Wet,None,Cyclist,E,Neighbourhood 4,Division 1
+2021-06-07,18:36,Near Miss,Snow,Dark,Ice,None,Passenger,W,Neighbourhood 18,Division 5
+2019-06-02,01:46,Near Miss,Snow,Dark,Ice,Major,Cyclist,W,Neighbourhood 15,Division 1
+2023-02-04,21:39,Collision,Fog,Dark,Snow,None,Pedestrian,SW,Neighbourhood 13,Division 2
+2021-07-06,03:59,Collision,Other,Daylight,Snow,None,Driver,S,Neighbourhood 2,Division 1
+2023-03-30,16:14,Near Miss,Snow,Dusk,Wet,Minor,Driver,SE,Neighbourhood 9,Division 2
+2019-02-07,04:02,Collision,Other,Daylight,Wet,Minor,Passenger,SW,Neighbourhood 18,Division 5
+2020-02-08,16:53,Near Miss,Other,Daylight,Dry,Minor,Driver,NE,Neighbourhood 19,Division 5
+2019-03-13,01:06,Collision,Other,Daylight,Snow,None,Driver,SW,Neighbourhood 19,Division 3
+2017-06-18,19:46,Near Miss,Other,Daylight,Ice,None,Pedestrian,S,Neighbourhood 8,Division 1
+2019-06-29,21:39,Collision,Fog,Daylight,Ice,None,Passenger,SE,Neighbourhood 16,Division 1
+2023-01-13,21:11,Collision,Fog,Dusk,Wet,None,Cyclist,E,Neighbourhood 16,Division 4
+2014-05-07,08:02,Collision,Rain,Dusk,Ice,None,Pedestrian,W,Neighbourhood 13,Division 3
+2017-12-03,03:19,Near Miss,Clear,Dark,Snow,None,Driver,E,Neighbourhood 10,Division 4
+2021-11-02,04:46,Near Miss,Other,Dawn,Slush,None,Pedestrian,W,Neighbourhood 11,Division 3
+2023-05-08,17:45,Near Miss,Other,Dawn,Wet,None,Passenger,NW,Neighbourhood 3,Division 3
+2017-06-12,08:32,Collision,Rain,Dusk,Slush,Minor,Cyclist,W,Neighbourhood 11,Division 2
+2016-11-30,11:19,Near Miss,Other,Dark,Snow,Minor,Pedestrian,SE,Neighbourhood 19,Division 2
+2013-03-29,23:42,Near Miss,Clear,Daylight,Ice,Minor,Passenger,NW,Neighbourhood 7,Division 3
+2021-02-27,17:54,Collision,Clear,Daylight,Dry,Minor,Driver,SW,Neighbourhood 3,Division 2
+2017-07-05,21:41,Collision,Other,Daylight,Slush,Minor,Passenger,E,Neighbourhood 19,Division 2
+2013-04-05,11:38,Near Miss,Clear,Daylight,Wet,None,Passenger,N,Neighbourhood 3,Division 2
+2019-06-23,06:21,Collision,Clear,Dusk,Ice,None,Driver,NW,Neighbourhood 10,Division 2
+2015-12-11,15:45,Near Miss,Fog,Dark,Dry,None,Cyclist,E,Neighbourhood 8,Division 5
+2015-07-16,17:15,Near Miss,Other,Dusk,Ice,None,Pedestrian,W,Neighbourhood 10,Division 1
+2018-11-16,09:30,Near Miss,Clear,Dark,Dry,None,Passenger,NE,Neighbourhood 1,Division 1
+2015-03-09,20:47,Collision,Clear,Dusk,Ice,None,Passenger,S,Neighbourhood 5,Division 5
+2022-06-22,08:43,Collision,Rain,Dawn,Snow,None,Cyclist,E,Neighbourhood 8,Division 3
+2018-01-04,02:17,Collision,Clear,Daylight,Ice,None,Driver,S,Neighbourhood 20,Division 4
+2015-06-19,06:45,Collision,Clear,Dark,Snow,Minor,Pedestrian,E,Neighbourhood 16,Division 1
+2017-02-25,09:18,Near Miss,Rain,Dark,Snow,None,Pedestrian,N,Neighbourhood 7,Division 1
+2014-06-22,01:40,Collision,Fog,Dawn,Ice,None,Driver,W,Neighbourhood 17,Division 1
